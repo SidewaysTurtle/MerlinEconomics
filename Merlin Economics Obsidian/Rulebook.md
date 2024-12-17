@@ -1,5 +1,5 @@
 # Merlin Economics
-<sub>Version 0.1.19b</sub>
+<sub>Version 0.1.20b</sub>
 
 |                  |                |
 | :--------------- | :------------- |
@@ -300,6 +300,7 @@ To bring a Golem to life, a merchant-mage must:
 
 1. Sacrifice one **Soul** to the commodity deck
 2. Roll two D6:
+
     *   First roll determines **Attack Power** (1-6)
     *   Second roll determines **Hit Points** (1-6)
 3. The Golem becomes active on your next turn
@@ -309,8 +310,10 @@ To bring a Golem to life, a merchant-mage must:
 The suit of the card determines the Golem's natural inclination:
 
 *   **Black Cards** (Spades, Clubs) → Aggressive Golems
+
     *   *Specialized in attacking properties and disrupting commerce*
 *   **Red Cards** (Hearts, Diamonds) → Defensive Golems
+
     *   *Excel at protecting properties and maintaining order*
 
 ### Basic Golem Actions
@@ -318,14 +321,81 @@ The suit of the card determines the Golem's natural inclination:
 During your action phase, each active Golem may perform **ONE** of the following:
 
 *   **Attack:** A Golem can attack an opponent's property or an opponent's Golem.
+
     *   When attacking a **property**, the Golem deals damage equal to its **Attack Power**. If the property is defended by a Golem, the attacking Golem's damage is first applied to the defending Golem's **Hit Points**. Any excess damage is then applied to the property.
     *   When attacking another **Golem**, both Golems deal damage to each other equal to their respective **Attack Powers**.
 *   **Defend:** A Golem can defend one of your properties.
+
     *   A defending Golem acts as a shield for the property. Any attacks directed at the property must first deplete the defending Golem's **Hit Points** before affecting the property itself.
     *   A Golem can only defend one property at a time.
 *   **Use Special Ability:** A Golem can use its unique special ability, as detailed in its description. These abilities often require specific commodities to activate.
+*   **Movement:** A Golem can move up to one space (one property) to an adjacent property.
+    *   **Restriction:** Golems cannot move through properties occupied by enemy Golems. They must either attack the enemy Golem or choose a different path.
+    *   **Adjacency:** Properties are considered adjacent if their cards are physically touching, either horizontally, vertically, or diagonally.
+    *   **Exception:** Golems cannot be placed or moved onto a Chauffeur. They may move past it to an adjacent property, if available.
 
-## 🗿 Stone Sentinels (Jacks)
+### Golem Stacking
+
+*   **Rule:** Multiple Golems *can* occupy the same property.
+*   **Maximum Stack:** Up to **two** Golems can stack on a single property.
+*   **Benefits:**
+    *   **Combined Defense:** When attacking a property with multiple Golems, the attacking Golem must overcome the combined **Hit Points** of all defending Golems.
+    *   **Ability Synergy:** Certain Golem abilities may interact or be enhanced when stacked (see Suit Synergy and Combination Attacks below).
+*   **Restrictions:**
+    *   **Vulnerability:** While stacking provides a defensive advantage, it also makes the stacked Golems more vulnerable to area-of-effect attacks (like those of the Explosive Artillerist).
+
+### Suit Synergy
+
+*   **Rule:** When two Golems of the same suit are either stacked on the same property or are on adjacent properties, they gain a synergy bonus.
+*   **♣️ Clubs (Overly Eager Sentinels):**
+    *   **Bonus:** +1 Attack Power to both Golems.
+    *   *Represents their shared aggressive nature, bolstering their offensive might.*
+*   **♠️ Spades (Harmonious Sentinels):**
+    *   **Bonus:** When performing a Coordinated Strike, add +1 to the total damage.
+    *   *Reflects their enhanced coordination and ability to work together seamlessly.*
+*   **♥️ Hearts (Stalwart Sentinels):**
+    *   **Bonus:** +1 Hit Point to both Golems.
+    *   *Symbolizes their shared resilience and ability to bolster each other's defenses.*
+*   **♦️ Diamonds (Adaptive Sentinels):**
+    *   **Bonus:** When using Tactical Flexibility, add +1 to *either* Attack Power or Hit Points (player's choice).
+    *   *Highlights their adaptability and ability to enhance their chosen specialization.*
+
+### Combination Attacks
+
+*   **Rule:** Certain Golem pairings can perform unique Combination Attacks when stacked or on adjacent properties. These attacks are in addition to their individual abilities.
+*   **Overly Eager Sentinel (♣️) + Explosive Artillerist (♦️):**
+    *   **Name:** "Impetuous Bombardment"
+    *   **Cost:** 1 Soul, 1 Essence Grain
+    *   **Effect:** The Overly Eager Sentinel, in its haste, throws the Explosive Artillerist's bomb immediately upon the Artillerist's activation. The bomb deals +1 damage in addition to its normal effects.
+    *   *Illustrates the Overly Eager Sentinel's impulsiveness combined with the Explosive Artillerist's destructive power.*
+*   **Harmonious Sentinel (♠️) + Shielding Sovereign (♣️):**
+    *   **Name:** "Coordinated Defense"
+    *   **Cost:** 1 Soul, 1 Elixir Oil
+    *   **Effect:** The Shielding Sovereign's Aegis of the Realm ability now protects both herself and the Harmonious Sentinel, and the Harmonious Sentinel may still perform a coordinated attack with another Golem.
+    *   *Demonstrates their ability to work together to create an impenetrable defense while maintaining offensive capabilities.*
+*   **Stalwart Sentinel (♥️) + Inspirational Liege (♥️):**
+    *   **Name:** "Inspiring Bulwark"
+    *   **Cost:** 1 Soul, 1 Essence Grain, 1 Elixir Oil
+    *   **Effect:** The Inspirational Liege's Royal Boon now grants an additional +1 Hit Point to all friendly Golems, and the Stalwart Sentinel heals the property it's defending by +1.
+    *   *Highlights their combined ability to inspire and fortify, creating a powerful defensive synergy.*
+
+### Terrain Effects (Based on Card Type)
+
+*   **Rule:** Certain card types provide bonuses or penalties to Golems occupying them.
+*   **Spell Shop:**
+    *   **Effect:** +1 Attack Power to any attacking Golem on this property.
+    *   *Reflects the volatile magic energies of the Spell Shop, enhancing offensive capabilities.*
+*   **Brewery:**
+    *   **Effect:** +1 Hit Point to any defending Golem on this property.
+    *   *Symbolizes the Brewery's sturdy construction and the invigorating nature of its brews, providing a defensive advantage.*
+*   **Chauffeur:**
+    *   **Effect:** No bonuses or penalties. Golems cannot be placed or moved onto a Chauffeur.
+    *   *Reflects the Chauffeur's unique status as a magically protected financial institution, separate from the battlefield.*
+*   **Land Cards:**
+    *   **Effect:** All Golems have -1 to their Attack Power.
+    *   *Reflects the unrefined nature of these areas, making it more difficult to launch effective attacks.*
+
+### 🗿 Stone Sentinels (Jacks)
 
 *"A Golem is but shaped stone, until given purpose by a will of iron and a heart of fire." - *Attributed to Eldric the Golemwright, from the lost "Annals of the Animate Earth"*
 
@@ -334,7 +404,7 @@ Stone Sentinels, the stalwart Jacks of the Golem hierarchy, are the most common 
 > [!NOTE]
 > All Stone Sentinels have a base Attack Power determined by the first D6 roll when animated, and base Hit Points determined by the second D6 roll.
 
-### ♣️ The Overly Eager Sentinel (Jack of Clubs)
+#### ♣️ The Overly Eager Sentinel (Jack of Clubs)
 
 *A maelstrom of unbridled aggression, this Golem is a whirlwind of stone and fury, ever eager to leap into the fray.*
 
@@ -352,7 +422,7 @@ Stone Sentinels, the stalwart Jacks of the Golem hierarchy, are the most common 
 > [!TIP]
 > Unleash the Overly Eager Sentinel to quickly cripple your opponent's properties, but be prepared for its defensive shortcomings. Keep a watchful eye, for its impetuous nature can be its undoing.
 
-### ♠️ The Harmonious Sentinel (Jack of Spades)
+#### ♠️ The Harmonious Sentinel (Jack of Spades)
 
 *Forged with a deep connection to its kin, this Sentinel is a master of coordinated warfare, drawing strength from unity and delivering strikes with deadly precision.*
 
@@ -372,7 +442,7 @@ Stone Sentinels, the stalwart Jacks of the Golem hierarchy, are the most common 
 > [!TIP]
 > Pair the Harmonious Sentinel with another Golem for a devastating combined attack, a dance of destruction that few can withstand.
 
-### ♥️ The Stalwart Sentinel (Jack of Hearts)
+#### ♥️ The Stalwart Sentinel (Jack of Hearts)
 
 *An unyielding bastion of defense, this Sentinel stands firm against any assault, a steadfast shield protecting those under its charge.*
 
@@ -388,11 +458,12 @@ Stone Sentinels, the stalwart Jacks of the Golem hierarchy, are the most common 
     *   However, it cannot attack while in Bulwark Stance, its focus solely on defense.
     *   *This Sentinel is ideal for protecting valuable properties, a living fortress.*
 *   If a Stone Sentinel is animated on a turn where a 12 is rolled, its hit points are doubled for the turn, an impenetrable wall.
+*   **Healing:** If a Stalwart Sentinel ends its turn on a damaged property, it heals that property by 1 Hit Point.
 
 > [!TIP]
-> Employ the Stalwart Sentinel to fortify your most profitable properties, making them nigh-impregnable fortresses against your rivals' schemes.
+> Employ the Stalwart Sentinel to fortify your most profitable properties, making them nigh-impregnable fortresses against your rivals' schemes. Utilize its new healing ability to maintain your properties' integrity.
 
-### ♦️ The Adaptive Sentinel (Jack of Diamonds)
+#### ♦️ The Adaptive Sentinel (Jack of Diamonds)
 
 *A versatile warrior, this Sentinel is a master of improvisation, capable of shifting its focus between offense and defense as the tides of battle demand.*
 
@@ -410,3 +481,188 @@ Stone Sentinels, the stalwart Jacks of the Golem hierarchy, are the most common 
 
 > [!TIP]
 > Utilize the Adaptive Sentinel to fill any role needed on the battlefield, adjusting its strengths to suit your ever-changing strategy. A truly flexible asset in the game of economic warfare.
+
+### ♛ Bronze Guardians (Queens)
+
+*"A Queen's strength is not in her own power, but in her ability to orchestrate the might of others. She is the conductor of the symphony of war, the weaver of the tapestry of fate." - *Excerpt from "The Queen's Gambit: Strategies of Court and Conquest"*
+
+Bronze Guardians, the regal commanders of the Golem forces, are masters of strategy and manipulation. They are not mere fighters, but leaders who can bolster allies, disrupt enemies, and even sacrifice themselves for the greater good. Each suit represents a different aspect of their royal authority, granting them unique powers on the battlefield.
+
+> [!NOTE]
+> All Bronze Guardians have a base Attack Power determined by the first D6 roll when animated, and base Hit Points determined by the second D6 roll.
+
+#### ♣️ The Shielding Sovereign (Queen of Clubs)
+
+*A paragon of protection, this Bronze Guardian is a living fortress, shielding her allies from harm and absorbing blows that would fell lesser beings.*
+
+[//]: # (Visual prompt: A tall, elegant female golem made of dark, polished stone, with glowing green energy emanating from her hands, forming a protective barrier. Stylized, fantasy art style.)
+
+**Special Ability: Aegis of the Realm**
+
+*   **Cost:** 2 Elixir Oil
+*   **Effect:**
+    *   The Shielding Sovereign can interpose herself between an attacking Golem and its target (another friendly Golem or the player).
+    *   She absorbs all damage from the attack, redirecting it from the original target to herself.
+    *   This ability can be used once per turn, making her a crucial defensive asset.
+    *   She cannot use this ability to protect Armored Kings, as their royal decree dictates they must face challenges head-on.
+*   When a 12 is rolled, she can use this ability twice, a perfect reflection of her unwavering resolve.
+
+> [!TIP]
+> Use the Shielding Sovereign to protect your most valuable Golems or to safeguard yourself from a devastating attack. Her presence can turn the tide of battle, allowing your forces to survive and conquer.
+
+#### ♠️ The Tactical Artificer (Queen of Spades)
+
+*A master of battlefield manipulation, this Bronze Guardian can reshape the very essence of her Golem underlings, sacrificing one to empower another.*
+
+[//]: # (Visual prompt: A sleek, dark grey female golem with glowing blue runes, holding a smaller, deactivated golem in one hand and transferring energy to a larger, more powerful golem with the other. Abstract, fantasy art style.)
+
+**Special Ability: Transmute Golem**
+
+*   **Cost:** 2 Souls
+*   **Effect:**
+    *   The Tactical Artificer can dismantle a friendly Jack, absorbing its essence and transferring its power to another friendly Golem.
+    *   The sacrificed Jack is removed from the field.
+    *   The targeted Golem receives a bonus to its Attack Power and Hit Points equal to the sacrificed Jack's current stats.
+    *   Any special abilities of the sacrificed Jack are lost, its essence re-forged into pure power.
+    *   When this ability is used, the targeted Golem must turn to face the opponent, indicating its altered state. It will cost one more of its primary resource to reactivate its abilities.
+    *   Alternatively, she can discard the targeted Golem, drawing a random card from an opponent's hand as a tactical maneuver, disrupting their plans.
+*   When an 11 is rolled, she may transmute a friendly Queen as well, a testament to her mastery over Golem creation.
+
+> [!TIP]
+> Employ the Tactical Artificer to strengthen your most powerful Golems, creating unstoppable juggernauts. Be strategic in your sacrifices, choosing the right moment to reshape your forces for maximum impact.
+
+#### ♥️ The Inspirational Liege (Queen of Hearts)
+
+*A beacon of hope and courage, this Bronze Guardian inspires her allies to fight with unmatched fervor, bolstering their strength and resilience.*
+
+[//]: # (Visual prompt: A radiant, white stone female golem with glowing red accents, standing tall and emanating a warm, inspiring aura. Realistic, fantasy art style.)
+
+**Special Ability: Royal Boon**
+
+*   **Cost:** 1 Soul, 1 Essence Grain
+*   **Effect:**
+    *   While the Inspirational Liege is active, all friendly Golems within her aura of influence receive a +1 bonus to both their Attack Power and Hit Points.
+    *   This bonus is lost if she is defeated or if another friendly Golem is animated, as her focus shifts to the new arrival.
+    *   *Her presence elevates the entire army, turning even the lowliest Stone Sentinel into a formidable warrior.*
+*   When a 12 is rolled, the bonus is increased to +2, a glorious testament to her inspiring might.
+
+> [!TIP]
+> Keep the Inspirational Liege safe and surrounded by your forces to maximize her impact. Her ability to strengthen your entire army makes her a high-priority target for your opponents, so protect her well.
+
+#### ♦️ The Explosive Artillerist (Queen of Diamonds)
+
+*A master of explosive ordnance, this Bronze Guardian can unleash devastating area-of-effect attacks, clearing the battlefield of enemy forces with calculated detonations.*
+
+[//]: # (Visual prompt: A medium-sized, agile-looking female golem made of multifaceted, gem-like stone, with glowing yellow energy emanating from her hands as she prepares to hurl a large, unstable-looking bomb. Dynamic, fantasy art style.)
+
+**Special Ability: Strategic Bombardment**
+
+*   **Cost:** 2 Essence Grain
+*   **Effect:**
+    *   The Explosive Artillerist can create and deploy powerful bombs, dealing 3 damage to all enemy Golems and properties in an area.
+    *   By expending an additional **Essence Grain**, she can enhance the bomb's power, adding its current Attack Power to the base damage. This enhanced damage is then divided equally among all targets.
+    *   If the divided damage results in a fraction of 0.5 or greater, round up to the nearest whole number. If the fraction is less than 0.5, round down.
+    *   *Her explosive might can quickly turn the tide of battle, decimating enemy ranks and leaving their properties in ruins.*
+*   When an 11 is rolled, the cost is reduced to 1 **Essence Grain**, allowing for a rapid and devastating barrage.
+
+> [!TIP]
+> Utilize the Explosive Artillerist to clear out clusters of enemy Golems or to weaken fortified positions. Her area-of-effect attacks are particularly effective against swarms of weaker foes, leaving your opponents' forces in disarray.
+
+## The Royal Guard: Champions of the Crown (Kings)
+
+*"They are not mere soldiers, but paragons of virtue, each a living embodiment of the Crown's authority. To command them is a privilege, to witness their might, an honor." - *From the Royal Chronicles of the Merchant-Mage Council*
+
+The Royal Guard are champions of the Crown, elite warriors sworn to serve the ruling merchant-mage. They are not Golems, crafted from stone and magic, but humans, highly trained and fiercely loyal. Each member of the Royal Guard embodies a different aspect of royal authority, from unwavering defense to swift and decisive offense. Their abilities are not fueled by magic alone but by the very gold they are sworn to protect, making their service a significant investment.
+
+> [!NOTE]
+> All Royal Guards have a base **Strength** determined by the sum of two D6 rolls when **motivated**, and base **Health** determined by the sum of two D6 rolls.
+
+### Motivating the Royal Guard
+
+To inspire a Royal Guard to join the fray, a merchant-mage must:
+
+1. Pay the **Motivation Cost** of **2 + the current Cost of Living** in gold to the Central Bank. This represents the substantial investment required to secure the service of these elite warriors.
+2. Roll **four D6**:
+
+    *   First **two** dice determine **Strength** (2-12)
+    *   Second **two** dice determine **Health** (2-12)
+3. The Royal Guard becomes active on your next turn.
+4. Only one Royal Guard may be on the field at a time.
+
+### Royal Guard Special Abilities
+
+Each member of the Royal Guard possesses a unique special ability that can be activated by paying its associated gold cost. These abilities represent their distinct roles in enforcing the royal will. The costs of these abilities are tied to the **Cost of Living**, reflecting the economic realities of maintaining such an elite force. They follow the same movement and stacking rules as Golems.
+
+### 👑 The Stalwart Defender (King of Hearts)
+
+*An unyielding bastion of defense, the Stalwart Defender stands as an impenetrable shield, guarding the realm against any threat. A veteran of countless battles, they are a symbol of courage and resilience.*
+
+[//]: # (Visual prompt: A towering, heavily armored warrior in shining plate armor, bearing a massive shield emblazoned with the royal crest. They stand firm, a beacon of hope amidst the chaos of battle. Majestic, realistic fantasy art style.)
+
+**Special Ability: Immovable Phalanx**
+
+*   **Cost:** The current Cost of Living in gold.
+*   **Effect:**
+    *   The Stalwart Defender becomes an immovable object until your next turn. They cannot be moved, their attacks cannot be redirected, and they provides a +3 bonus to their Health.
+    *   While in this state, they cannot attack. Their sole focus is on defense.
+    *   This ability can be maintained by paying the current Cost of Living in gold at the beginning of each of your turns.
+    *   *The Stalwart Defender is the ultimate defensive unit, capable of withstanding even the most ferocious assaults.*
+    *   *This Royal Guard is immune to the Shielding Sovereigns special ability.*
+
+> [!TIP]
+> Position the Stalwart Defender strategically to protect your most valuable assets. Their Immovable Phalanx ability makes them an ideal guardian for key properties or for safeguarding your own financial reserves.
+
+### 👑 The Swift Executioner (King of Spades)
+
+*A whirlwind of deadly strikes, the Swift Executioner is a master of offensive combat, capable of cutting down multiple foes with unmatched speed and precision. They are a veteran agent of the crown, dispatched to deal with threats swiftly and silently.*
+
+[//]: # (Visual prompt: A sleek, agile warrior clad in dark leather armor, wielding two elegant blades that move with blinding speed. They are a shadow, a whisper of death on the battlefield. Dynamic, stylized fantasy art style.)
+
+**Special Ability: Dual Strike**
+
+*   **Cost:** The current Cost of Living - 1 in gold. (Minimum of 1 gold)
+*   **Effect:**
+    *   The Swift Executioner can attack twice during your turn.
+    *   These attacks can be directed at the same target or different targets (properties or Golems).
+    *   *This Royal Guard is a one-being offensive force, able to quickly dismantle enemy defenses or eliminate multiple threats in a single turn.*
+
+> [!TIP]
+> Use the Swift Executioner to swiftly eliminate high-priority targets or to break through heavily defended positions. Their ability to attack twice makes them a formidable offensive weapon.
+
+### 👑 The Grand Artificer (King of Diamonds)
+
+*A master of strategy and support, the Grand Artificer can enhance the very capabilities of the Royal Guard, bolstering their power and resilience. They are a seasoned commander, able to inspire their comrades to feats of extraordinary valor.*
+
+[//]: # (Visual prompt: A regal figure in ornate robes, adorned with symbols of authority and wielding a staff that channels their strategic brilliance. They are the mastermind, the architect of victory. Abstract, fantasy art style.)
+
+**Special Ability: Royal Enhancement**
+
+*   **Cost:** The current Cost of Living - 1 in gold. (Minimum of 1 gold)
+*   **Effect:**
+    *   The Grand Artificer can enhance the capabilities of any friendly Royal Guard.
+    *   When activated, you may choose *one* of the following enhancements to apply until your next turn:
+        *   **Reinforce Armor:** Add +2 to the target's Health.
+        *   **Sharpen Blades:** Add +2 to the target's Strength.
+        *   **Fortify Will:** The target can not be targeted by spells until your next turn.
+    *   *The Grand Artificer is a powerful support unit, capable of significantly boosting the effectiveness of other Royal Guards.*
+
+> [!TIP]
+> The Grand Artificer works best in synergy with other Royal Guards. Use their Royal Enhancement ability to bolster their strengths and create an unstoppable force.
+
+### 👑 The Imposing Colossus (King of Clubs)
+
+*A towering warrior of unmatched might, the Imposing Colossus is a symbol of unwavering royal authority, demanding respect and forcing all who oppose them to face their wrath. They are a veteran champion, a giant among their peers, their presence alone enough to shift the tide of battle.*
+
+[//]: # (Visual prompt: A massive, heavily armored warrior clad in imposing plate armor, their sheer size dwarfing all others on the battlefield. They are a force of nature, an unstoppable juggernaut. Imposing, impressionistic fantasy art style.)
+
+**Special Ability: Center of Attention**
+
+*   **Cost:** The current Cost of Living - 1 in gold. (Minimum of 1 gold)
+*   **Effect:**
+    *   While the Imposing Colossus is active, all enemy attacks must be directed at them.
+    *   Enemy Golems and Royal Guards cannot attack other targets unless the Imposing Colossus is defeated.
+    *   *This Royal Guard is a powerful disruptor, forcing your opponents to deal with it before they can target your other assets.*
+    *   *This Royal Guard is immune to the Shielding Sovereigns special ability.*
+
+> [!TIP]
+> Deploy the Imposing Colossus to draw enemy fire and protect your more vulnerable units. Their Center of Attention ability can be used to control the flow of battle and dictate your opponent's actions.
