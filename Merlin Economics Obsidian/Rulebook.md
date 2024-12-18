@@ -1,5 +1,5 @@
 # Merlin Economics
-<sub>Version 0.1.20b</sub>
+<sub>Version 0.1.22b</sub>
 
 |                  |                |
 | :--------------- | :------------- |
@@ -31,7 +31,7 @@ Through careful resource management, market manipulation, and occasional magical
 > [!TIP]
 > First games work best with 4 players and take about 90-120 minutes
 
-### Victory Conditions 
+### Victory Conditions
 *Win through economic domination or royal prestige - bankrupt your rivals or collect crowns while maintaining wealth.*
 
 Players can win through one of two methods:
@@ -39,19 +39,20 @@ Players can win through one of two methods:
 2. **Royal Favor**: Collect 5 crowns while having the highest net worth
 ### Core Components
 *Everything needed to simulate a magical economy - from basic currency to mystical forecasting tools.*
-#### Required Decks 
+#### Required Decks
 - 1 Standard playing card deck without jokers
-	- Properties, permits, and Golems 
-- Custom magical decks: 
-	- Tea Leaves Deck - 30 cards
-	- Crystal Ball Deck - 20 cards
-	- Spells Deck - 48 cards
-	- Potions Deck - 28 cards
+	- Properties, permits, and Golems
+- Custom magical decks:
+	- Tea Leaves - 30 cards
+	- Crystal Ball - 20 cards
+	- Spells - 48 cards
+	- Potions - 28 cards
+	- Royal Decrees - 30 cards
 
 > [!IMPORTANT]
 > When any deck runs out, reshuffle its discard pile to form a new deck
 #### Game Trackers
-- Season Wheel 
+- Season Wheel
 - Research Cost Counter
 - Cost of Living Counter
 - Bid/Ask Tables for each commodity
@@ -66,7 +67,7 @@ Players can win through one of two methods:
 > You can substitute poker chips for gold and colored tokens for commodities
 
 #### Additional Materials
-- Paper and pens 
+- Paper and pens
 - Post-it notes
 
 > [!WARNING]
@@ -80,7 +81,7 @@ Before delving into the arcane arts of economics, prepare your workspace:
 
 1. Clear a large table space - you'll need room for:
    - Player areas for their **properties** and **cards**
-   - Central **market area** for **commodities** 
+   - Central **market area** for **commodities**
    - Space for various **tracking wheels** and **counters**
 
 2. Prepare the components:
@@ -120,7 +121,7 @@ As merchant-mages have done for centuries, begin with the traditional **blind au
      - Make **investments**
      - Trade **resources**
      - Research **spells/potions**
-   
+
 > [!NOTE]
 > Focus on building your economic foundation before diving into complex market speculation
 
@@ -128,7 +129,7 @@ As merchant-mages have done for centuries, begin with the traditional **blind au
 > Declare your actions clearly - *magic and markets both thrive on clear communication*
 
 # The Cards of Commerce and Conjuring
-> *"In the grand bazaars of the Spellbound Realm, fortunes are made not just with magic, but with the careful play of cards both mundane and mystical."* 
+> *"In the grand bazaars of the Spellbound Realm, fortunes are made not just with magic, but with the careful play of cards both mundane and mystical."*
 > - Merlin's Merchant Manual, Chapter III
 
 ## Standard Playing Cards
@@ -234,6 +235,10 @@ When a funded and successful Potion Lab is combined with a property, it transfor
 *  **Property Maintenance:** Instead of generating potion recipe cards, a Brewery requires maintenance payments when its number is rolled. This is an operational cost to keep the business running.
 *  **Maintenance Costs:** Maintenance costs start at one gold, but can fluctuate depending on various game factors. These are always paid to the Central Bank.
 *   **Investments:** Breweries cannot be invested in
+*   **"Last Call":** If a player has an unoccupied Brewery, they can activate the "Last Call" ability. This allows them to instantly recall one of their Royal Guards to the Brewery at the cost of one **Mead**. This can be a powerful way to quickly redeploy a Royal Guard to a more strategic location or to save them from a losing battle.
+
+> [!NOTE]
+> The "Last Call" ability can only be used on a player's turn and only if they have an unoccupied Brewery. The recalled Royal Guard is immediately placed on the Brewery, and any ongoing combat involving that unit is immediately ended. The Royal Guard cannot be placed on a Brewery that already has a defending Golem or Royal Guard.
 
 **Using Potions:**
 *   To use a potion, you must have the necessary resources that the recipe requires.
@@ -521,58 +526,52 @@ Bronze Guardians, the regal commanders of the Golem forces, are masters of strat
 *   **Cost:** 2 Souls
 *   **Effect:**
     *   The Tactical Artificer can dismantle a friendly Jack, absorbing its essence and transferring its power to another friendly Golem.
-    *   The sacrificed Jack is removed from the field.
-    *   The targeted Golem receives a bonus to its Attack Power and Hit Points equal to the sacrificed Jack's current stats.
-    *   Any special abilities of the sacrificed Jack are lost, its essence re-forged into pure power.
-    *   When this ability is used, the targeted Golem must turn to face the opponent, indicating its altered state. It will cost one more of its primary resource to reactivate its abilities.
-    *   Alternatively, she can discard the targeted Golem, drawing a random card from an opponent's hand as a tactical maneuver, disrupting their plans.
-*   When an 11 is rolled, she may transmute a friendly Queen as well, a testament to her mastery over Golem creation.
+    *    The sacrificed Jack is removed from the field.
+    *    The targeted Golem receives a bonus to its Attack Power and Hit Points equal to the sacrificed Jack's current stats.
+	* Any special abilities of the sacrificed Jack are lost, its essence re-forged into pure power.
+	* When this ability is used, the targeted Golem must turn to face the opponent, indicating its altered state. It will cost one more of its primary resource to reactivate its abilities.
+	* Alternatively, she can discard the targeted Golem, drawing a random card from an opponent's hand as a tactical maneuver, disrupting their plans.
+* When an 11 is rolled, she may transmute a friendly Queen as well, a testament to her mastery over Golem creation.
 
 > [!TIP]
 > Employ the Tactical Artificer to strengthen your most powerful Golems, creating unstoppable juggernauts. Be strategic in your sacrifices, choosing the right moment to reshape your forces for maximum impact.
 
 #### ♥️ The Inspirational Liege (Queen of Hearts)
-
 *A beacon of hope and courage, this Bronze Guardian inspires her allies to fight with unmatched fervor, bolstering their strength and resilience.*
 
 [//]: # (Visual prompt: A radiant, white stone female golem with glowing red accents, standing tall and emanating a warm, inspiring aura. Realistic, fantasy art style.)
 
 **Special Ability: Royal Boon**
-
-*   **Cost:** 1 Soul, 1 Essence Grain
-*   **Effect:**
-    *   While the Inspirational Liege is active, all friendly Golems within her aura of influence receive a +1 bonus to both their Attack Power and Hit Points.
-    *   This bonus is lost if she is defeated or if another friendly Golem is animated, as her focus shifts to the new arrival.
-    *   *Her presence elevates the entire army, turning even the lowliest Stone Sentinel into a formidable warrior.*
-*   When a 12 is rolled, the bonus is increased to +2, a glorious testament to her inspiring might.
-
+* **Cost:** 1 Soul, 1 Essence Grain
+* **Effect:**
+	* While the Inspirational Liege is active, all friendly Golems within her aura of influence receive a +1 bonus to both their Attack Power and Hit Points.
+	* This bonus is lost if she is defeated or if another friendly Golem is animated, as her focus shifts to the new arrival.
+	* *Her presence elevates the entire army, turning even the lowliest Stone Sentinel into a formidable warrior.*
+* When a 12 is rolled, the bonus is increased to +2, a glorious testament to her inspiring might.
 > [!TIP]
 > Keep the Inspirational Liege safe and surrounded by your forces to maximize her impact. Her ability to strengthen your entire army makes her a high-priority target for your opponents, so protect her well.
-
 #### ♦️ The Explosive Artillerist (Queen of Diamonds)
-
 *A master of explosive ordnance, this Bronze Guardian can unleash devastating area-of-effect attacks, clearing the battlefield of enemy forces with calculated detonations.*
 
 [//]: # (Visual prompt: A medium-sized, agile-looking female golem made of multifaceted, gem-like stone, with glowing yellow energy emanating from her hands as she prepares to hurl a large, unstable-looking bomb. Dynamic, fantasy art style.)
 
 **Special Ability: Strategic Bombardment**
-
-*   **Cost:** 2 Essence Grain
-*   **Effect:**
-    *   The Explosive Artillerist can create and deploy powerful bombs, dealing 3 damage to all enemy Golems and properties in an area.
-    *   By expending an additional **Essence Grain**, she can enhance the bomb's power, adding its current Attack Power to the base damage. This enhanced damage is then divided equally among all targets.
-    *   If the divided damage results in a fraction of 0.5 or greater, round up to the nearest whole number. If the fraction is less than 0.5, round down.
-    *   *Her explosive might can quickly turn the tide of battle, decimating enemy ranks and leaving their properties in ruins.*
-*   When an 11 is rolled, the cost is reduced to 1 **Essence Grain**, allowing for a rapid and devastating barrage.
+* **Cost:** 2 Essence Grain
+* **Effect:** 
+	* *The Explosive Artillerist can create and deploy powerful bombs, dealing 3 damage to all enemy Golems and properties in an area.
+	* By expending an additional **Essence Grain**, she can enhance the bomb's power, adding its current Attack Power to the base damage. This enhanced damage is then divided equally among all targets.
+	* If the divided damage results in a fraction of 0.5 or greater, round up to the nearest whole number. If the fraction is less than 0.5, round down.
+	* *Her explosive might can quickly turn the tide of battle, decimating enemy ranks and leaving their properties in ruins.*
+* When an 11 is rolled, the cost is reduced to 1 **Essence Grain**, allowing for a rapid and devastating barrage.
 
 > [!TIP]
-> Utilize the Explosive Artillerist to clear out clusters of enemy Golems or to weaken fortified positions. Her area-of-effect attacks are particularly effective against swarms of weaker foes, leaving your opponents' forces in disarray.
+> Utilize the Explosive Artillerist to clear out clusters of enemy Golems or to weaken fortified positions. Her area-of-effect attacks are particularly effective against swarms of weaker foes, leaving your opponents' forces in disarray.and Hit Points equal to the sacrificed Jack'
 
 ## The Royal Guard: Champions of the Crown (Kings)
 
 *"They are not mere soldiers, but paragons of virtue, each a living embodiment of the Crown's authority. To command them is a privilege, to witness their might, an honor." - *From the Royal Chronicles of the Merchant-Mage Council*
 
-The Royal Guard are champions of the Crown, elite warriors sworn to serve the ruling merchant-mage. They are not Golems, crafted from stone and magic, but humans, highly trained and fiercely loyal. Each member of the Royal Guard embodies a different aspect of royal authority, from unwavering defense to swift and decisive offense. Their abilities are not fueled by magic alone but by the very gold they are sworn to protect, making their service a significant investment.
+The Royal Guard are champions of the Crown, elite warriors sworn to serve the ruling merchant-mage. They are not Golems, crafted from stone and magic, but humans, highly trained and fiercely loyal. Each member of the Royal Guard embodies a different aspect of royal authority, from unwavering defense to swift and decisive offense. Their abilities are fueled by the very gold they are sworn to protect, making their service a significant investment.
 
 > [!NOTE]
 > All Royal Guards have a base **Strength** determined by the sum of two D6 rolls when **motivated**, and base **Health** determined by the sum of two D6 rolls.
@@ -581,17 +580,26 @@ The Royal Guard are champions of the Crown, elite warriors sworn to serve the ru
 
 To inspire a Royal Guard to join the fray, a merchant-mage must:
 
-1. Pay the **Motivation Cost** of **2 + the current Cost of Living** in gold to the Central Bank. This represents the substantial investment required to secure the service of these elite warriors.
+1. Pay the **Motivation Cost** of **3 + the current Cost of the Living** in gold to the Central Bank. This represents the substantial investment required to secure the service of these elite warriors.
 2. Roll **four D6**:
-
     *   First **two** dice determine **Strength** (2-12)
     *   Second **two** dice determine **Health** (2-12)
-3. The Royal Guard becomes active on your next turn.
+3. The Royal Guard becomes active on the same turn they are motivated if the player pays an additional 2 gold. Otherwise, they become active on the player's next turn.
 4. Only one Royal Guard may be on the field at a time.
 
 ### Royal Guard Special Abilities
 
-Each member of the Royal Guard possesses a unique special ability that can be activated by paying its associated gold cost. These abilities represent their distinct roles in enforcing the royal will. The costs of these abilities are tied to the **Cost of Living**, reflecting the economic realities of maintaining such an elite force. They follow the same movement and stacking rules as Golems.
+Each member of the Royal Guard possesses a unique special ability that can be activated *once* upon being played. Activating these abilities directly impacts the **Cost of the Living** counter, reflecting the economic strain of employing such powerful individuals. After using their ability, the Royal Guard is placed on any property, where they remain as a defending force until defeated. **Royal Guards cannot be placed on Chauffeurs.**
+
+### Royal Decrees
+
+*   When a King is drawn, it **must** be played immediately.
+*   The player drawing the King has the honor of choosing a **Royal Decree** card from the Royal Decree deck.
+*   These decrees are disguised as beneficial pronouncements but often carry hidden, often detrimental consequences for the player who enacts them. However, they also award the player with a coveted **Crown**, a symbol of royal favor and a step towards victory.
+*   **Refusal of Decree:** If the player who drew the King does not wish to enact the chosen Royal Decree, a bidding system is initiated. Players can bid gold to take on the decree, with the highest bidder receiving the Crown and the consequences. The bid is split between the Central Bank and the player who originally drew the King.
+
+> [!NOTE]
+> Royal Decrees add an element of risk and political maneuvering to the game. Will you accept the Crown's "generosity" and risk the consequences, or will you let another player take the fall in your quest for economic dominance?
 
 ### 👑 The Stalwart Defender (King of Hearts)
 
@@ -601,16 +609,16 @@ Each member of the Royal Guard possesses a unique special ability that can be ac
 
 **Special Ability: Immovable Phalanx**
 
-*   **Cost:** The current Cost of Living in gold.
+*   **Cost:** The **Cost of the Living** counter reduced by 2.
 *   **Effect:**
-    *   The Stalwart Defender becomes an immovable object until your next turn. They cannot be moved, their attacks cannot be redirected, and they provides a +3 bonus to their Health.
+    *   The Stalwart Defender becomes an immovable object for one turn. They cannot be moved, their attacks cannot be redirected, and they provides a +3 bonus to their Health.
     *   While in this state, they cannot attack. Their sole focus is on defense.
-    *   This ability can be maintained by paying the current Cost of Living in gold at the beginning of each of your turns.
+    *   After using this ability, the Stalwart Defender is placed on any property, acting as a defender.
     *   *The Stalwart Defender is the ultimate defensive unit, capable of withstanding even the most ferocious assaults.*
     *   *This Royal Guard is immune to the Shielding Sovereigns special ability.*
 
 > [!TIP]
-> Position the Stalwart Defender strategically to protect your most valuable assets. Their Immovable Phalanx ability makes them an ideal guardian for key properties or for safeguarding your own financial reserves.
+> Position the Stalwart Defender strategically to protect your most valuable assets. Their Immovable Phalanx ability makes them an ideal guardian for key properties.
 
 ### 👑 The Swift Executioner (King of Spades)
 
@@ -620,10 +628,11 @@ Each member of the Royal Guard possesses a unique special ability that can be ac
 
 **Special Ability: Dual Strike**
 
-*   **Cost:** The current Cost of Living - 1 in gold. (Minimum of 1 gold)
+*   **Cost:** The **Cost of the Living** counter reduced by 1.
 *   **Effect:**
-    *   The Swift Executioner can attack twice during your turn.
+    *   The Swift Executioner can attack twice during the turn they are played.
     *   These attacks can be directed at the same target or different targets (properties or Golems).
+    *   After using this ability, the Swift Executioner is placed on any property, acting as a defender.
     *   *This Royal Guard is a one-being offensive force, able to quickly dismantle enemy defenses or eliminate multiple threats in a single turn.*
 
 > [!TIP]
@@ -637,13 +646,14 @@ Each member of the Royal Guard possesses a unique special ability that can be ac
 
 **Special Ability: Royal Enhancement**
 
-*   **Cost:** The current Cost of Living - 1 in gold. (Minimum of 1 gold)
+*   **Cost:** The **Cost of the Living** counter reduced by 1.
 *   **Effect:**
-    *   The Grand Artificer can enhance the capabilities of any friendly Royal Guard.
-    *   When activated, you may choose *one* of the following enhancements to apply until your next turn:
+    *   The Grand Artificer can enhance the capabilities of any *other* friendly Royal Guard.
+    *   When activated, you may choose *one* of the following enhancements to apply *once* to the targeted Royal Guard:
         *   **Reinforce Armor:** Add +2 to the target's Health.
         *   **Sharpen Blades:** Add +2 to the target's Strength.
-        *   **Fortify Will:** The target can not be targeted by spells until your next turn.
+        *   **Fortify Will:** The target gains a +3 bonus to resist the effects of spells.
+    *   After using this ability, the Grand Artificer is placed on any property, acting as a defender.
     *   *The Grand Artificer is a powerful support unit, capable of significantly boosting the effectiveness of other Royal Guards.*
 
 > [!TIP]
@@ -657,12 +667,109 @@ Each member of the Royal Guard possesses a unique special ability that can be ac
 
 **Special Ability: Center of Attention**
 
-*   **Cost:** The current Cost of Living - 1 in gold. (Minimum of 1 gold)
+*   **Cost:** The **Cost of the Living** counter reduced by 2.
 *   **Effect:**
-    *   While the Imposing Colossus is active, all enemy attacks must be directed at them.
-    *   Enemy Golems and Royal Guards cannot attack other targets unless the Imposing Colossus is defeated.
+    *   For one turn when played, all enemy attacks must be directed at them.
+    *   Enemy Golems and Royal Guards cannot attack other targets unless the Imposing Colossus is defeated during that turn.
+    *   After using this ability, the Imposing Colossus is placed on any property, acting as a defender.
     *   *This Royal Guard is a powerful disruptor, forcing your opponents to deal with it before they can target your other assets.*
     *   *This Royal Guard is immune to the Shielding Sovereigns special ability.*
 
 > [!TIP]
 > Deploy the Imposing Colossus to draw enemy fire and protect your more vulnerable units. Their Center of Attention ability can be used to control the flow of battle and dictate your opponent's actions.
+
+## The Art of War: Golem and Royal Guard Combat
+
+*"When the markets fail, and diplomacy crumbles, it is the clash of stone and steel that dictates the fate of empires." - *Chapter VII, "The Economics of Warfare," from Merlin's Merchant Manual*
+
+In the realm of Merlin Economics, battles are not merely about brute force, but about strategic deployment, calculated risk, and the cunning use of resources. Combat is resolved through a combination of dice rolls, special abilities, and tactical maneuvering. This section details the intricacies of combat involving **Golems** and the **Royal Guard**.
+
+### Attacking Properties: Sieges and Conquests
+
+*"A wise merchant-mage knows that true wealth comes not just from trade, but from controlling the very land itself." - *Ancient Proverb of the Merchant-Mage Council*
+
+Properties are the cornerstone of a player's economic engine. Attacking an opponent's property is a strategic move to disrupt their resource generation and cripple their economic growth.
+
+#### Initiating an Attack
+
+1. **Declaration:** On your turn, you may declare an attack with a **Golem** or **Royal Guard** you control.
+2. **Target:** Choose an opponent's property as the target of your attack.
+3. **Movement:** If the attacking unit is not already on an adjacent property, it must move to an adjacent property before attacking. A unit cannot attack on the same turn it moves, unless stated otherwise.
+4. **Golem Limits:** Remember that Golems cannot be placed or moved onto a Chauffeur.
+
+#### Resolving an Attack on a Property
+
+1. **Defense:** If the targeted property is defended by a **Golem** or **Royal Guard**, a battle occurs (see "Golem vs. Golem Combat" and "Royal Guard vs. Golem Combat" below). The defending unit must be defeated before the property can be damaged.
+2. **Property Damage:** If the property is undefended, or the defending unit is defeated, the attacking unit deals damage to the property equal to its **Attack Power** (**Strength** for Royal Guards).
+3. **Property Hit Points:**
+    *   **Standard Properties:** Have 1 Hit Point.
+    *   **Permitted Properties:** (Lands, Spell Shops, Breweries) have 2 Hit Points. When hit for the first time, the permit card on top should spin to cover the property underneath. Properties with permits on top that have been hit no longer generate gold on roll, and cannot be invested in.
+4. **Destruction:** When a property's Hit Points are reduced to 0, it is considered destroyed.
+    *   **Destroyed Standard Property:** The property card is flipped face down. It no longer generates resources or gold.
+    *   **Destroyed Permitted Property:** The permit and property card are both flipped face down. They no longer generate resources or gold.
+5. **Resource Seizure:** When a property generates a resource and an attacking **Golem** is on the card, instead of the player that owns the property receiving the resource, it is given to the attacking party. If the attacking Golem is defeated before the property generates resources, the defending player retains control of the property and any resources generated.
+6. **Entrenchment:** A property with both an attacking and defending **Golem** are considered entrenched. When entrenched, roll a d6. On a roll of 1-3, the property generates a resource as normal. On a roll of 4-6, the property does not generate a resource that turn.
+
+### Golem vs. Golem Combat: Clashes of Animated Stone
+
+*"Let the earth tremble and the sparks fly as these titans of stone and magic collide. Their battles are a spectacle of raw power, a testament to the might of their creators." - *From "The Golem Wars: A Chronicle of the Animated Conflicts"*
+
+When Golems clash, it's a battle of brute force, special abilities, and strategic positioning.
+
+#### Combat Sequence
+
+1. **Simultaneous Attack:** Both the attacking and defending Golems deal damage to each other simultaneously. The damage dealt is equal to their respective **Attack Powers**.
+2. **Special Abilities:** Players can activate their Golems' special abilities during combat, following the costs and conditions outlined on their cards.
+3. **Damage Resolution:** Golems' **Hit Points** are reduced by the damage received.
+4. **Defeat:** When a Golem's Hit Points are reduced to 0, it is defeated and removed from the game.
+
+#### Terrain Effects
+
+Remember that certain card types provide bonuses or penalties to Golems in combat:
+
+*   **Spell Shop:** +1 Attack Power to any attacking Golem.
+*   **Brewery:** +1 Hit Point to any defending Golem.
+*   **Chauffeur:** No effect. Golems cannot be placed or moved onto a Chauffeur.
+*   **Land Cards:** All Golems have -1 to their Attack Power.
+
+#### Suit Synergy and Combination Attacks
+
+Utilize **Suit Synergy** and **Combination Attacks** to gain an edge in Golem combat. Refer to the "The Animated Guardians: Golems of War and Warding" section for details on these advanced tactics.
+
+### Royal Guard vs. Golem Combat: Valor Against Stone
+
+*"Though outnumbered by the tireless Golems, the Royal Guard stand as beacons of hope, their courage and skill a match for any construct of stone and magic." - *Excerpt from "The Ballad of the Royal Guard"*
+
+When a Royal Guard faces a Golem, it's a battle of human skill and determination against unyielding magical constructs.
+
+#### Combat Sequence
+
+1. **Royal Guard Advantage:** Royal Guards, being highly trained warriors, deal damage to the Golem equal to their **Strength** plus 1.
+2. **Golem Retaliation:** If the Golem survives the initial attack, it retaliates, dealing damage to the Royal Guard equal to its **Attack Power**.
+3. **Special Abilities:** Players can activate their Royal Guard's special ability *once* upon being played. Golems can use their special abilities as normal during combat.
+4. **Damage Resolution:** **Health** and **Hit Points** are reduced by the damage received.
+5. **Defeat:** When a Royal Guard's Health or a Golem's Hit Points are reduced to 0, they are defeated and removed from the game.
+
+#### Special Considerations
+
+*   **Royal Guard Abilities:** Remember that activating a Royal Guard's special ability affects the **Cost of the Living** counter.
+*   **Imposing Colossus:** The Imposing Colossus's **Center of Attention** ability forces Golems to attack it before targeting other units.
+*   **Shielding Sovereign:** The Shielding Sovereign cannot use her **Aegis of the Realm** ability to protect a Royal Guard from a Golem's attack.
+
+### Royal Guard vs. Royal Guard Combat: The Clash of Champions
+
+*"When the Royal Guard meet in battle, it is a contest of skill, strategy, and unwavering loyalty. These are the battles that legends are made of, where the fate of the realm hangs in the balance." - *From the "Chronicles of the Crown: Volume III"*
+
+When Royal Guards clash, it's a duel of legendary proportions, a battle that will be etched into the annals of the Merchant-Mage Council.
+
+#### Combat Sequence
+
+1. **Simultaneous Attack:** Both Royal Guards deal damage to each other simultaneously. The damage dealt is equal to their respective **Strengths**.
+2. **Special Abilities:** Players can activate their Royal Guard's special ability *once* upon being played.
+3. **Damage Resolution:** Royal Guards' **Health** is reduced by the damage received.
+4. **Defeat:** When a Royal Guard's Health is reduced to 0, they are defeated and removed from the game.
+
+#### Special Considerations
+
+*   **Imposing Colossus:** The Imposing Colossus's **Center of Attention** ability forces other Royal Guards to attack it before targeting other units.
+*   **Shielding Sovereign:** The Shielding Sovereign cannot use her **Aegis of the Realm** ability to protect a Royal Guard from another Royal Guard's attack.
