@@ -128,14 +128,16 @@ As merchant-mages have done for centuries, begin with the traditional **blind au
 > [!IMPORTANT]
 > Declare your actions clearly - *magic and markets both thrive on clear communication*
 
+---
 # The Cards of Commerce and Conjuring
 > *"In the grand bazaars of the Spellbound Realm, fortunes are made not just with magic, but with the careful play of cards both mundane and mystical."*
 > - Merlin's Merchant Manual, Chapter III
 
-## Standard Playing Cards
-While common folk might use these cards for simple games of chance, merchant-mages know them as powerful tools of magical commerce. Each card represents contracts, deeds, and permits sanctioned by the **Grand Merchant Council**.
+> [!NOTE]
+> Playing Cards
+> While common folk might use these cards for simple games of chance, merchant-mages know them as powerful tools of magical commerce. Each card represents contracts, deeds, and permits sanctioned by the **Grand Merchant Council**.
 
-### 🏰 Properties and Permits (2-6, 8-10)
+## 🏰 Properties and Permits (2-6, 8-10)
 > [!NOTE]
 > All permits cost the current **Cost of Living** to acquire from the Council's offices.
 
@@ -293,6 +295,7 @@ Each Land card represents a specific type of resource-rich land:
     *   If the trading partners have ever targeted each other with spells, then this also happens when a two is rolled.
 * **Transport Spells:** Powerful spells that increase efficiency and reduce transport risk will be available through the spell deck.
 
+---
 ## The Animated Guardians: Golems of War and Warding
 
 > *"The true power of a golem lies not just in its strength, but in the ingenuity of its master. Bind your golems with the right resources, and they will be instruments of unmatched might.”* - *Grand Artificer Lyra's Notes on Golem Creation*
@@ -567,6 +570,7 @@ Bronze Guardians, the regal commanders of the Golem forces, are masters of strat
 > [!TIP]
 > Utilize the Explosive Artillerist to clear out clusters of enemy Golems or to weaken fortified positions. Her area-of-effect attacks are particularly effective against swarms of weaker foes, leaving your opponents' forces in disarray.and Hit Points equal to the sacrificed Jack'
 
+---
 ## The Royal Guard: Champions of the Crown (Kings)
 
 *"They are not mere soldiers, but paragons of virtue, each a living embodiment of the Crown's authority. To command them is a privilege, to witness their might, an honor." - *From the Royal Chronicles of the Merchant-Mage Council*
@@ -678,6 +682,7 @@ Each member of the Royal Guard possesses a unique special ability that can be ac
 > [!TIP]
 > Deploy the Imposing Colossus to draw enemy fire and protect your more vulnerable units. Their Center of Attention ability can be used to control the flow of battle and dictate your opponent's actions.
 
+---
 ## The Art of War: Golem and Royal Guard Combat
 
 *"When the markets fail, and diplomacy crumbles, it is the clash of stone and steel that dictates the fate of empires." - *Chapter VII, "The Economics of Warfare," from Merlin's Merchant Manual*
@@ -773,3 +778,62 @@ When Royal Guards clash, it's a duel of legendary proportions, a battle that wil
 
 *   **Imposing Colossus:** The Imposing Colossus's **Center of Attention** ability forces other Royal Guards to attack it before targeting other units.
 *   **Shielding Sovereign:** The Shielding Sovereign cannot use her **Aegis of the Realm** ability to protect a Royal Guard from another Royal Guard's attack.
+---
+## Taxmen of the Wizard's Republic (Jokers)
+
+*They are the long arm of the Wizard's Republic, the collectors of dues, the enforcers of fiscal policy. When a Taxman enters the game, even the wealthiest merchant-mage feels a chill of apprehension.*
+
+[//]: # (Visual prompt: A stern-faced, official-looking figure in a dark, formal robe, holding a ledger and a quill. They are surrounded by stacks of gold and official documents. Imposing, realistic fantasy art style.)
+
+*   **Appearance:** The Joker cards, if your deck includes them, represent the Taxmen.
+*   **Optional Rule:** The inclusion of Jokers is optional, providing a way to adjust the game's pace. Their presence can speed up the game by adding an additional economic drain. All players must unanimously agree to include or exclude Jokers at the beginning of the game.
+*   **Effect:** When a Joker, or **Taxman**, is drawn, it is immediately played.
+*   **Tax Collection:** Each player must pay an amount of gold equal to the current **Tax Rate** to the **R.O.W.** (Revenue Office of Wizards). This represents the Taxman's duty to collect the Republic's due.
+*   **Reshuffle:** After the Taxman has collected the taxes, the Joker is reshuffled back into the deck, ready to reappear and enforce fiscal policy once more.
+    *   The collected tax is placed in the **R.O.W.**, *not* the Central Bank.
+
+> [!TIP]
+> The presence of Taxmen adds an element of risk to hoarding gold. Be prepared to pay your dues, or consider investing your gold to keep it safe from the Taxman's grasp.
+
+> [!NOTE]
+> For more information on the **Tax Rate** and the **R.O.W.**, refer to the "Taxes" section.
+
+---
+
+## The Winds of Fortune (Aces)
+
+*They are the harbingers of luck, the bringers of unexpected boons. When an Ace appears, it's a chance for a windfall, a sudden infusion of magical potential.*
+
+[//]: # (Visual prompt: A swirling vortex of magical energy, with a playing card at its center. The card is an Ace, and it radiates with power and possibility. Abstract, fantasy art style.)
+
+*   **Appearance:** The Ace cards represent moments of extraordinary luck and opportunity.
+*   **Immediate Play:** When an Ace is drawn, it must be played immediately.
+*   **Permit Boon:** The player who drew the Ace draws cards from the deck until a **permit** is revealed. This permit is granted to the player for free, representing a sudden opportunity or a stroke of good fortune.
+*   **Permit Activation:** The player immediately receives the benefits of the drawn permit as if they had rolled its corresponding number. They also get to keep the permit, adding it to their holdings.
+*   **Reshuffle:** The Ace is then reshuffled back into the deck.
+*   **No Permit Drawn:** If the deck is depleted and no permit is drawn, the deck is reshuffled. The player continues to draw until a permit is revealed.
+
+> [!TIP]
+> Aces can provide a significant advantage, granting free permits that can boost your economic engine. Be prepared to capitalize on these moments of fortune!
+
+---
+
+## The Sevens of Upheaval (7s)
+
+*They are the forces of inflation, the agents of economic instability. When a Seven is rolled, the very foundations of the market tremble, and the cost of living rises for all.*
+
+[//]: # (Visual prompt: A chaotic scene of a marketplace in disarray. Goods are scattered, people are panicking, and the very air crackles with an unstable energy. Dramatic, impressionistic fantasy art style.)
+
+*   **Trigger:** When a 7 is rolled on the dice during any player's turn.
+*   **Immediate Effect:** All **7** cards in the deck are immediately played.
+*   **Cost of Living Increase:** The **Cost of the Living** counter increases by the **Volatility** value (default is 1). This represents inflation, impacting all aspects of the game.
+*   **Market Instability:**
+    *   All invested gold on properties is lost and given to the **Central Bank**. This represents the risks of market speculation during times of uncertainty.
+    *   All commodity holders must pay 1 gold to the **Central Bank** to keep each unit of their commodities. This represents the increased cost of storage and maintenance during inflationary periods.
+*   **Reshuffle:** After the effects are resolved, all **7** cards are reshuffled back into the deck.
+
+> [!WARNING]
+> A roll of 7 can be devastating, wiping out investments and increasing costs for all players. Be prepared for this eventuality, and consider hedging your risks during times of high volatility.
+
+> [!NOTE]
+> For more information on the **Cost of the Living** counter and **Volatility**, refer to the "Indicators" section.
