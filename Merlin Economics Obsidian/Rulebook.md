@@ -1,5 +1,5 @@
 # Merlin Economics
-<sub>Version 0.1.22b</sub>
+<sub>Version 0.1.26b</sub>
 
 |                  |                |
 | :--------------- | :------------- |
@@ -40,21 +40,24 @@ Players can win through one of two methods:
 ### Core Components
 *Everything needed to simulate a magical economy - from basic currency to mystical forecasting tools.*
 #### Required Decks
-- 1 Standard playing card deck without jokers
-	- Properties, permits, and Golems
+- 1 //ENTER NAME FOR DECK Card deck without jokers per person
+	- Properties
+	- Permits
+	- [Golems](https://docs.google.com/spreadsheets/d/1OZ1VNpAdI9pgCz3ABLtk_JlO-WIH3AVhC6CePLWlYdw/edit?usp=sharing)
+	- [Royal Gaurds](https://docs.google.com/spreadsheets/d/1oR_GGQ7mE0Ifk6mvFQT2kStIF9xHH14KWQGaUUn0XQo/edit?usp=sharing)
 - Custom magical decks:
-	- Tea Leaves - 30 cards
-	- Crystal Ball - 20 cards
-	- Spells - 48 cards
-	- Potions - 28 cards
-	- Royal Decrees - 30 cards
+	- [Tea Leaves](https://docs.google.com/spreadsheets/d/1mln7ndSg52FSPz6Z5Kf-UkgITCrnG1t0a4z5Ubkw8B8/edit?usp=sharing)
+	- [Crystal Ball](https://docs.google.com/spreadsheets/d/1g9HAlmH1Eswke9tEnsAtYjEWmOQAgdGKqmTda7zncdY/edit?usp=sharing)
+	- [Spells](https://docs.google.com/spreadsheets/d/1M5d9waSGGzukIwMvnTL5MiPquYq5DETy_wEPh_B6LJk/edit?usp=sharing)
+	- [Potions](https://docs.google.com/spreadsheets/d/18evShnnRvlaVsq7sUKmxrQkjo0443bS5MyTJtERJ55o/edit?usp=sharing)
+	- [Royal Decrees](https://docs.google.com/spreadsheets/d/1uNEaoNqAAULFk0Fa7pxtpMfLCR0uX1N1TvsdwP6tnk4/edit?usp=sharing)
 
 > [!IMPORTANT]
 > When any deck runs out, reshuffle its discard pile to form a new deck
 #### Game Trackers
 - Season Wheel
 - Research Cost Counter
-- Cost of Living Counter
+- Cost of The Living Counter
 - Bid/Ask Tables for each commodity
 
 #### Resources
@@ -73,65 +76,108 @@ Players can win through one of two methods:
 > [!WARNING]
 > Keep post-its handy - you'll need them for tracking futures contracts and derivatives
 
-### Your First Game of Merlin Economics
-*Welcome, aspiring merchant-mage, to your first venture into magical markets and mystical merchandise.*
+# Getting Started: Embarking on Your Path to Magical Riches
 
-#### Game Setup
-Before delving into the arcane arts of economics, prepare your workspace:
+*Centuries ago, the great wizard Merlin laid the foundation for the arcane arts of economics. Now, you stand poised to follow in his footsteps, ready to master the mystical forces of supply and demand, and build your own merchant empire.*
 
-1. Clear a large table space - you'll need room for:
-   - Player areas for their **properties** and **cards**
-   - Central **market area** for **commodities**
-   - Space for various **tracking wheels** and **counters**
+This section will guide you through the initial steps of your journey, from setting up the game to understanding the flow of your first few turns.
 
-2. Prepare the components:
-   - Set up the three tracking devices:
-     - **Season Wheel** → '*Start of Summer*'
-     - **Research Cost Counter** → **1**
-     - **Cost of Living Counter** → **2**
-   - Shuffle each deck separately
-   - Give each player **10 gold**
-   - Create a market space with **bid/ask tables** for:
-     - **Souls**
-     - **Elixir Oil**
-     - **Essence Grain**
+## Game Setup: Preparing the Mystical Marketplace
+
+Before you can begin your ascent to economic dominance, you must prepare the game components, transforming your mundane surroundings into a vibrant marketplace, brimming with magical potential.
+
+1. **Establish the Grand Bazaar:** Clear a spacious table to serve as the central hub of commerce. This area will house:
+
+    *   **Player Fields:** Each player will have a designated area, their **field**, where they will manage their **properties**, **permits**, **Golems**, **Royal Guard**, and personal **gold** reserves.
+    *   **Central Market:** This is where the magical **commodities** (Souls, Elixir Oil, Essence Grain) will be traded, their values fluctuating with the tides of supply and demand.
+    *   **The Wheel of Fate:** Place the **Season Wheel** within view. This wheel tracks the passage of time and the ever-shifting magical energies that influence the realm. **Note:** The Erratic Season Wheel is set aside for now, only coming into play when the Climate Change counter indicates significant disruption to the magical climate.
+    *   **Climate Change Counter:** Place a post-it note under the Season Wheel to track **Climate Change**. Use tally marks to record the changes to the magical environment.
+    *   **Arcane Trackers:** Place the **Research Cost Counter** and **Cost of The Living Counter** nearby. These devices will track the ever-shifting costs and economic pressures of the magical world.
+    *   **The Decks of Destiny:** Shuffle each deck (Properties, Spells, Potions, Tea Leaves, Crystal Balls, Royal Decrees) separately and place them face down within reach. These cards hold the keys to your future success (or spectacular failure).
+2. **Assemble the Components of Power:**
+
+    *   **Set the Wheel of Fate:** The **Season Wheel** begins at the 'Start of Summer' position.
+    *   **Establish Base Costs:** Set the **Research Cost Counter** to **1** and the **Cost of the Living Counter** to **2**. These represent the initial costs associated with arcane research and the basic necessities of life in this magical realm.
+    *   **Begin with a Stable Climate:** The **Climate Change Counter** starts at **zero**, indicated by a blank post-it note, signifying a relatively stable magical environment (for now).
+    *   **Distribute Starting Wealth:** Each player begins their journey with **10 gold** pieces, the foundation of their future empire.
+    *   **Form the Central Bank:** Designate an area or container to hold the undistributed gold, the lifeblood of the magical economy.
+    *   **Establish the Revenue Office of Wizards (R.O.W.):** Designate an area or container for collected taxes, the dues owed to the governing body of this realm.
+    *   **Create the Grand Market:** Set up **bid/ask tables** for each commodity: **Souls**, **Elixir Oil**, and **Essence Grain**. This is where fortunes will be made and lost through shrewd trading.
 
 > [!TIP]
-> A well-organized merchant keeps their resources close and their ledgers closer
+> A well-organized merchant-mage is a successful one. Ensure your play area is neatly arranged, allowing you to easily track your resources, monitor the market, and anticipate the actions of your rivals.
 
-#### Starting the Game
-As merchant-mages have done for centuries, begin with the traditional **blind auction**:
+# Getting Started: Embarking on Your Path to Magical Riches
 
-1. Determine **Turn Order**
-   - Each player conceals their bid in a closed fist
-   - All reveal simultaneously
-   - **Highest bid** becomes first player
-   - **Second highest** becomes second player
-   - **Third highest** becomes third player
-   - **Lowest bid** becomes last player
-   - The collected gold is divided:
-     - Half goes to the last place merchant
-     - Half is stored in **Chauffeurs** for future wealth storage
+*Centuries ago, the great wizard Merlin laid the foundation for the arcane arts of economics. Now, you stand poised to follow in his footsteps, ready to master the mystical forces of supply and demand, and build your own merchant empire.*
 
-2. Your First Turn
-   - **Cast the dice** to determine resource generation
-   - Draw and reveal a **future reading card**
-   - Take actions:
-     - Buy **properties/permits**
-     - Make **investments**
-     - Trade **resources**
-     - Research **spells/potions**
+This section will guide you through the initial steps of your journey, from setting up the game to understanding the flow of your first few turns.
+
+## Game Setup: Preparing the Mystical Marketplace
+
+Before you can begin your ascent to economic dominance, you must prepare the game components, transforming your mundane surroundings into a vibrant marketplace, brimming with magical potential.
+
+1. **Establish the Grand Bazaar:** Clear a spacious table to serve as the central hub of commerce. This area will house:
+
+    *   **Player Fields:** Each player will have a designated area, their **field**, where they will manage their **properties**, **permits**, **Golems**, **Royal Guard**, and personal **gold** reserves.
+    *   **Central Market:** This is where the magical **commodities** (Souls, Elixir Oil, Essence Grain) will be traded, their values fluctuating with the tides of supply and demand.
+    *   **The Wheel of Fate:** Place the **Season Wheel** within view. This wheel tracks the passage of time and the ever-shifting magical energies that influence the realm. **Note:** The Erratic Season Wheel is set aside for now, only coming into play when the Climate Change counter indicates significant disruption to the magical climate.
+    *   **Climate Change Counter:** Place a post-it note under the Season Wheel to track **Climate Change**. Use tally marks to record the changes to the magical environment.
+    *   **Arcane Trackers:** Place the **Research Cost Counter** and **Cost of the Living Counter** nearby. These devices will track the ever-shifting costs and economic pressures of the magical world.
+    *   **The Decks of Destiny:** Shuffle each deck (Properties, Spells, Potions, Tea Leaves, Crystal Balls, Royal Decrees) separately and place them face down within reach. These cards hold the keys to your future success (or spectacular failure).
+2. **Assemble the Components of Power:**
+
+    *   **Set the Wheel of Fate:** The **Season Wheel** begins at the 'Start of Summer' position.
+    *   **Establish Base Costs:** Set the **Research Cost Counter** to **1** and the **Cost of the Living Counter** to **2**. These represent the initial costs associated with arcane research and the basic necessities of life in this magical realm.
+    *   **Begin with a Stable Climate:** The **Climate Change Counter** starts at **zero**, indicated by a blank post-it note, signifying a relatively stable magical environment (for now).
+    *   **Distribute Starting Wealth:** Each player begins their journey with **10 gold** pieces, the foundation of their future empire.
+    *   **Form the Central Bank:** Designate an area or container to hold the undistributed gold, the lifeblood of the magical economy.
+    *   **Establish the Revenue Office of Wizards (R.O.W.):** Designate an area or container for collected taxes, the dues owed to the governing body of this realm.
+    *   **Create the Grand Market:** Set up **bid/ask tables** for each commodity: **Souls**, **Elixir Oil**, and **Essence Grain**. This is where fortunes will be made and lost through shrewd trading.
+
+> [!TIP]
+> A well-organized merchant-mage is a successful one. Ensure your play area is neatly arranged, allowing you to easily track your resources, monitor the market, and anticipate the actions of your rivals.
+
+## The First Turn: A Glimpse into the Flow of Commerce
+
+*With the marketplace assembled, you are ready to embark on your first turn, a microcosm of the cyclical dance of commerce that drives the magical economy.*
+
+1. **The Blind Auction - Determining Turn Order:**
+
+    *   Before the first turn, players engage in a **blind auction** to determine the order of play. Each player secretly selects a portion of their **10 starting gold** as their bid, concealing it within their closed fist.
+    *   All players reveal their bids simultaneously, the echoes of ancient merchant traditions resonating through the ages.
+    *   The player with the **highest bid** earns the right to go first, their ambition and wealth securing their place at the forefront of the market.
+    *   The **second highest** bid goes second, and so on, until the player with the **lowest bid** takes the final position.
+    *   The collected gold from the auction is then divided: half is bestowed upon the last-place merchant, a small consolation for their humility, while the other half is deposited into the **Central Bank**, fueling the engine of the magical economy.
+2. **The Rhythm of the Market - Your First Turn:**
+
+    *   **Cast the Dice of Fate:** Roll two six-sided dice. The numbers rolled determine which **properties** and **land** cards generate resources across all player **fields**, a testament to the unpredictable nature of fortune.
+    *   **Consult the Seers - Draw a Future Reading Card:** Draw the top card from either the **Tea Leaves** or **Crystal Ball** deck. Place it face up in a designated area, allowing all players to glimpse the potential future that awaits. These cards foretell events that may come to pass, adding an element of foresight and strategic planning to your endeavors.
+    *   **The Dance of Commerce - Taking Actions:** Now, the heart of your turn unfolds. You may take a variety of actions, in any order you deem most advantageous. *Declare each action clearly, for transparency is paramount in the magical marketplace.* These actions represent your influence upon the economy, your ability to manipulate resources, and your strategic cunning:
+
+        *   **A. Property Management:**
+            *   **Lay Claim to Properties:** Purchase available **property** cards and add them to your **field**, expanding your holdings and increasing your potential for gold generation.
+            *   **Acquire Permits:** Enhance your properties with **permits** (Land, Spell Shops, Breweries), each offering unique benefits, from resource generation to arcane research capabilities.
+
+        *   **B. Magic & Market Manipulation:**
+            *   **Fund Arcane Research:** Invest gold in **Spell** or **Potion** research, seeking to unlock powerful magic that can disrupt your rivals or enhance your own operations.
+            *   **Establish Spell Shops and Breweries:** Combine successful **Spell Labs** or **Potion Labs** with properties to create specialized establishments that offer unique benefits and opportunities.
+            *   **Trade in the Grand Market:** Buy and sell **commodities** (Souls, Elixir Oil, Essence Grain) at the **bid/ask tables**, speculating on market trends and striving to amass wealth through shrewd trades.
+            *   **Forge Futures Contracts:** If you have established a **Chauffeur**, you may create and trade **futures contracts** for commodities, a sophisticated form of market speculation that allows you to hedge against future price fluctuations or gamble for extraordinary profits.
+            *   **Unleash Spells:** Cast **Spells** you have researched to directly affect other players, their properties, or even the market itself. Spells are typically revealed and their effects resolved immediately, unless stated otherwise on the card. For example, the spell "Cumulonimbus" can be placed on an opponent's land to hinder their production.
+            *   **Brew and Deploy Potions:** Use the required ingredients listed to create **Potions** from the recipes you have researched. Potions are placed face down, either in front of you or under a property (depending on the potion's stipulations), and act as hidden boons. They are revealed and their effects activated when the specific conditions described on the card are met. For instance, "Raining Gold" can be placed on a Land, and when that land's number is rolled, you might receive extra gold. Similarly, "Golem better nature" is placed on a Specialized Property and can potentially deactivate an attacking Golem.
+
+        *   **C. Military Might (Golems and Royal Guard):**
+            *   **Animate Golems:** Bring your **Golems** to life, sacrificing **Souls** and rolling dice to determine their strength. Deploy these magical constructs to attack or defend properties, or to utilize their special abilities.
+            *   **Motivate Royal Guards:** Recruit powerful human warriors, the **Royal Guard**, by paying their substantial gold cost. Roll dice to determine their prowess, and deploy them strategically to protect your interests or enact your will upon the marketplace.
 
 > [!NOTE]
-> Focus on building your economic foundation before diving into complex market speculation
+> In these early turns, focus on establishing a solid economic foundation. Acquire properties, generate resources, and carefully consider your investments. The path to becoming a master merchant-mage is long and fraught with challenges, but with cunning and foresight, you can rise to the top.
 
 > [!IMPORTANT]
-> Declare your actions clearly - *magic and markets both thrive on clear communication*
-
----
+> Clarity is key in the magical marketplace. *Declare your actions clearly and ensure all players are aware of your moves.* This transparency fosters fair play and allows your rivals to react accordingly.
 # The Cards of Commerce and Conjuring
-> *"In the grand bazaars of the Spellbound Realm, fortunes are made not just with magic, but with the careful play of cards both mundane and mystical."*
-> - Merlin's Merchant Manual, Chapter III
+> *"In the grand bazaars of the Spellbound Realm, fortunes are made not just with magic, but with the careful play of cards both mundane and mystical."* - Chapter I, "Observations on Merchants," from *Merlin's Merchant Manual*
 
 > [!NOTE]
 > Playing Cards
@@ -139,7 +185,7 @@ As merchant-mages have done for centuries, begin with the traditional **blind au
 
 ## 🏰 Properties and Permits (2-6, 8-10)
 > [!NOTE]
-> All permits cost the current **Cost of Living** to acquire from the Council's offices.
+> All permits cost the current **Cost of the Living** to acquire from the Council's offices.
 
 #### ♣️ Clubs: Properties and Holdings
 *The foundation of any respectable merchant-mage's empire*
@@ -233,7 +279,7 @@ When a funded and successful Potion Lab is combined with a property, it transfor
 
 **Brewery Mechanics:**
 *   **Creation:** To create a Brewery, place the successful Potion Lab card perpendicularly on top of any owned property. Reshuffle all spent recipe cards under the lab back into the deck. The research funds are given to the Central Bank.
-*   **Mead Production:** A Brewery allows you to convert a hand of two **Essence Grain** into Mead, which can be sold to the Central Bank or other players for the current **Cost of Living**.
+*   **Mead Production:** A Brewery allows you to convert a hand of two **Essence Grain** into Mead, which can be sold to the Central Bank or other players for the current **Cost of the Living**.
 *  **Property Maintenance:** Instead of generating potion recipe cards, a Brewery requires maintenance payments when its number is rolled. This is an operational cost to keep the business running.
 *  **Maintenance Costs:** Maintenance costs start at one gold, but can fluctuate depending on various game factors. These are always paid to the Central Bank.
 *   **Investments:** Breweries cannot be invested in
@@ -405,91 +451,12 @@ During your action phase, each active Golem may perform **ONE** of the following
 
 ### 🗿 Stone Sentinels (Jacks)
 
-*"A Golem is but shaped stone, until given purpose by a will of iron and a heart of fire." - *Attributed to Eldric the Golemwright, from the lost "Annals of the Animate Earth"*
+*"A Golem is but shaped stone, until given purpose by a will of iron and a heart of fire." -* Attributed to Eldric the Golemwright, from the lost *"Annals of the Animate Earth"*
 
 Stone Sentinels, the stalwart Jacks of the Golem hierarchy, are the most common and adaptable of their kind. Each suit represents a different facet of their ancient design, granting them unique abilities on the battlefield.
 
 > [!NOTE]
 > All Stone Sentinels have a base Attack Power determined by the first D6 roll when animated, and base Hit Points determined by the second D6 roll.
-
-#### ♣️ The Overly Eager Sentinel (Jack of Clubs)
-
-*A maelstrom of unbridled aggression, this Golem is a whirlwind of stone and fury, ever eager to leap into the fray.*
-
-[//]: # (Visual prompt: A muscular humanoid golem made of rough, dark stone, charging forward with glowing green cracks in its body, one fist raised, in a dynamic action pose. Impressionistic, fantasy art style.)
-
-**Special Ability: Impetuous Assault**
-
-*   **Cost:** 1 Soul
-*   **Effect:**
-    *   This eager construct can attack on the same turn it is animated, a testament to its raw power.
-    *   However, its eagerness comes at a cost, as it cannot defend properties.
-    *   *This Sentinel is perfect for swift, decisive strikes but is vulnerable to counterattacks.*
-*   If a Stone Sentinel is animated on a turn where an 11 is rolled, and this ability is activated, the attack is doubled, a furious onslaught.
-
-> [!TIP]
-> Unleash the Overly Eager Sentinel to quickly cripple your opponent's properties, but be prepared for its defensive shortcomings. Keep a watchful eye, for its impetuous nature can be its undoing.
-
-#### ♠️ The Harmonious Sentinel (Jack of Spades)
-
-*Forged with a deep connection to its kin, this Sentinel is a master of coordinated warfare, drawing strength from unity and delivering strikes with deadly precision.*
-
-[//]: # (Visual prompt: A sleek, grey stone golem with glowing blue runes etched into its body, standing in a defensive pose with one arm extended, energy connecting it to another nearby golem. Stylized, fantasy art style.)
-
-**Special Ability: Coordinated Strike**
-
-*   **Cost:** 1 Soul, 1 Essence Grain
-*   **Effect:**
-    *   This Sentinel can combine its attack with that of another friendly Golem, a symphony of stone and force.
-    *   Both Golems must target the same property or Golem.
-    *   Their combined damage equals the sum of both Golems' Attack Powers, a devastating blow.
-    *   Each Golem still receives damage individually, a testament to the risks of even the most coordinated assaults.
-    *   *This Sentinel is most effective when used in tandem with other Golems, a true force multiplier.*
-*   If a Stone Sentinel is animated on a turn where an 11 is rolled and this ability is activated, the attack is doubled, a perfectly synchronized strike.
-
-> [!TIP]
-> Pair the Harmonious Sentinel with another Golem for a devastating combined attack, a dance of destruction that few can withstand.
-
-#### ♥️ The Stalwart Sentinel (Jack of Hearts)
-
-*An unyielding bastion of defense, this Sentinel stands firm against any assault, a steadfast shield protecting those under its charge.*
-
-[//]: # (Visual prompt: A tall, broad-shouldered golem made of smooth, polished white stone with glowing red cracks, standing in a protective stance with a large shield formed from its own arm. Realistic, fantasy art style.)
-
-**Special Ability: Bulwark Stance**
-
-*   **Cost:** 1 Soul, 1 Elixir Oil
-*   **Effect:**
-    *   The Stalwart Sentinel adds its Hit Points as a shield to the defended property, a bulwark against aggression.
-    *   A defending Stalwart Sentinel must be defeated before the property can be damaged, a true guardian.
-    *   It can heal 1 damage from the protected property each turn, a testament to its enduring nature.
-    *   However, it cannot attack while in Bulwark Stance, its focus solely on defense.
-    *   *This Sentinel is ideal for protecting valuable properties, a living fortress.*
-*   If a Stone Sentinel is animated on a turn where a 12 is rolled, its hit points are doubled for the turn, an impenetrable wall.
-*   **Healing:** If a Stalwart Sentinel ends its turn on a damaged property, it heals that property by 1 Hit Point.
-
-> [!TIP]
-> Employ the Stalwart Sentinel to fortify your most profitable properties, making them nigh-impregnable fortresses against your rivals' schemes. Utilize its new healing ability to maintain your properties' integrity.
-
-#### ♦️ The Adaptive Sentinel (Jack of Diamonds)
-
-*A versatile warrior, this Sentinel is a master of improvisation, capable of shifting its focus between offense and defense as the tides of battle demand.*
-
-[//]: # (Visual prompt: A medium-sized, agile-looking golem made of multifaceted, gem-like stone, with glowing yellow energy emanating from its joints, in a balanced stance ready to either attack or defend. Abstract, fantasy art style.)
-
-**Special Ability: Tactical Flexibility**
-
-*   **Cost:** 1 Essence Grain
-*   **Effect:**
-    *   On the turn it is animated, you can choose to either:
-        *   Imbue it with offensive might, adding 1 to its Attack Power until your next turn.
-        *   Or bolster its defenses, adding 1 to its Hit Points until your next turn.
-    *   *This Sentinel is adaptable to various situations, a jack-of-all-trades on the battlefield.*
-*   If a Stone Sentinel is animated on a turn where an 11 or 12 is rolled, this ability costs no commodities, a perfect synchronicity of magic and will.
-
-> [!TIP]
-> Utilize the Adaptive Sentinel to fill any role needed on the battlefield, adjusting its strengths to suit your ever-changing strategy. A truly flexible asset in the game of economic warfare.
-
 ### ♛ Bronze Guardians (Queens)
 
 *"A Queen's strength is not in her own power, but in her ability to orchestrate the might of others. She is the conductor of the symphony of war, the weaver of the tapestry of fate." - *Excerpt from "The Queen's Gambit: Strategies of Court and Conquest"*
@@ -498,77 +465,6 @@ Bronze Guardians, the regal commanders of the Golem forces, are masters of strat
 
 > [!NOTE]
 > All Bronze Guardians have a base Attack Power determined by the first D6 roll when animated, and base Hit Points determined by the second D6 roll.
-
-#### ♣️ The Shielding Sovereign (Queen of Clubs)
-
-*A paragon of protection, this Bronze Guardian is a living fortress, shielding her allies from harm and absorbing blows that would fell lesser beings.*
-
-[//]: # (Visual prompt: A tall, elegant female golem made of dark, polished stone, with glowing green energy emanating from her hands, forming a protective barrier. Stylized, fantasy art style.)
-
-**Special Ability: Aegis of the Realm**
-
-*   **Cost:** 2 Elixir Oil
-*   **Effect:**
-    *   The Shielding Sovereign can interpose herself between an attacking Golem and its target (another friendly Golem or the player).
-    *   She absorbs all damage from the attack, redirecting it from the original target to herself.
-    *   This ability can be used once per turn, making her a crucial defensive asset.
-    *   She cannot use this ability to protect Armored Kings, as their royal decree dictates they must face challenges head-on.
-*   When a 12 is rolled, she can use this ability twice, a perfect reflection of her unwavering resolve.
-
-> [!TIP]
-> Use the Shielding Sovereign to protect your most valuable Golems or to safeguard yourself from a devastating attack. Her presence can turn the tide of battle, allowing your forces to survive and conquer.
-
-#### ♠️ The Tactical Artificer (Queen of Spades)
-
-*A master of battlefield manipulation, this Bronze Guardian can reshape the very essence of her Golem underlings, sacrificing one to empower another.*
-
-[//]: # (Visual prompt: A sleek, dark grey female golem with glowing blue runes, holding a smaller, deactivated golem in one hand and transferring energy to a larger, more powerful golem with the other. Abstract, fantasy art style.)
-
-**Special Ability: Transmute Golem**
-
-*   **Cost:** 2 Souls
-*   **Effect:**
-    *   The Tactical Artificer can dismantle a friendly Jack, absorbing its essence and transferring its power to another friendly Golem.
-    *    The sacrificed Jack is removed from the field.
-    *    The targeted Golem receives a bonus to its Attack Power and Hit Points equal to the sacrificed Jack's current stats.
-	* Any special abilities of the sacrificed Jack are lost, its essence re-forged into pure power.
-	* When this ability is used, the targeted Golem must turn to face the opponent, indicating its altered state. It will cost one more of its primary resource to reactivate its abilities.
-	* Alternatively, she can discard the targeted Golem, drawing a random card from an opponent's hand as a tactical maneuver, disrupting their plans.
-* When an 11 is rolled, she may transmute a friendly Queen as well, a testament to her mastery over Golem creation.
-
-> [!TIP]
-> Employ the Tactical Artificer to strengthen your most powerful Golems, creating unstoppable juggernauts. Be strategic in your sacrifices, choosing the right moment to reshape your forces for maximum impact.
-
-#### ♥️ The Inspirational Liege (Queen of Hearts)
-*A beacon of hope and courage, this Bronze Guardian inspires her allies to fight with unmatched fervor, bolstering their strength and resilience.*
-
-[//]: # (Visual prompt: A radiant, white stone female golem with glowing red accents, standing tall and emanating a warm, inspiring aura. Realistic, fantasy art style.)
-
-**Special Ability: Royal Boon**
-* **Cost:** 1 Soul, 1 Essence Grain
-* **Effect:**
-	* While the Inspirational Liege is active, all friendly Golems within her aura of influence receive a +1 bonus to both their Attack Power and Hit Points.
-	* This bonus is lost if she is defeated or if another friendly Golem is animated, as her focus shifts to the new arrival.
-	* *Her presence elevates the entire army, turning even the lowliest Stone Sentinel into a formidable warrior.*
-* When a 12 is rolled, the bonus is increased to +2, a glorious testament to her inspiring might.
-> [!TIP]
-> Keep the Inspirational Liege safe and surrounded by your forces to maximize her impact. Her ability to strengthen your entire army makes her a high-priority target for your opponents, so protect her well.
-#### ♦️ The Explosive Artillerist (Queen of Diamonds)
-*A master of explosive ordnance, this Bronze Guardian can unleash devastating area-of-effect attacks, clearing the battlefield of enemy forces with calculated detonations.*
-
-[//]: # (Visual prompt: A medium-sized, agile-looking female golem made of multifaceted, gem-like stone, with glowing yellow energy emanating from her hands as she prepares to hurl a large, unstable-looking bomb. Dynamic, fantasy art style.)
-
-**Special Ability: Strategic Bombardment**
-* **Cost:** 2 Essence Grain
-* **Effect:** 
-	* *The Explosive Artillerist can create and deploy powerful bombs, dealing 3 damage to all enemy Golems and properties in an area.
-	* By expending an additional **Essence Grain**, she can enhance the bomb's power, adding its current Attack Power to the base damage. This enhanced damage is then divided equally among all targets.
-	* If the divided damage results in a fraction of 0.5 or greater, round up to the nearest whole number. If the fraction is less than 0.5, round down.
-	* *Her explosive might can quickly turn the tide of battle, decimating enemy ranks and leaving their properties in ruins.*
-* When an 11 is rolled, the cost is reduced to 1 **Essence Grain**, allowing for a rapid and devastating barrage.
-
-> [!TIP]
-> Utilize the Explosive Artillerist to clear out clusters of enemy Golems or to weaken fortified positions. Her area-of-effect attacks are particularly effective against swarms of weaker foes, leaving your opponents' forces in disarray.and Hit Points equal to the sacrificed Jack'
 
 ---
 ## The Royal Guard: Champions of the Crown (Kings)
@@ -605,87 +501,11 @@ Each member of the Royal Guard possesses a unique special ability that can be ac
 > [!NOTE]
 > Royal Decrees add an element of risk and political maneuvering to the game. Will you accept the Crown's "generosity" and risk the consequences, or will you let another player take the fall in your quest for economic dominance?
 
-### 👑 The Stalwart Defender (King of Hearts)
-
-*An unyielding bastion of defense, the Stalwart Defender stands as an impenetrable shield, guarding the realm against any threat. A veteran of countless battles, they are a symbol of courage and resilience.*
-
-[//]: # (Visual prompt: A towering, heavily armored warrior in shining plate armor, bearing a massive shield emblazoned with the royal crest. They stand firm, a beacon of hope amidst the chaos of battle. Majestic, realistic fantasy art style.)
-
-**Special Ability: Immovable Phalanx**
-
-*   **Cost:** The **Cost of the Living** counter reduced by 2.
-*   **Effect:**
-    *   The Stalwart Defender becomes an immovable object for one turn. They cannot be moved, their attacks cannot be redirected, and they provides a +3 bonus to their Health.
-    *   While in this state, they cannot attack. Their sole focus is on defense.
-    *   After using this ability, the Stalwart Defender is placed on any property, acting as a defender.
-    *   *The Stalwart Defender is the ultimate defensive unit, capable of withstanding even the most ferocious assaults.*
-    *   *This Royal Guard is immune to the Shielding Sovereigns special ability.*
-
-> [!TIP]
-> Position the Stalwart Defender strategically to protect your most valuable assets. Their Immovable Phalanx ability makes them an ideal guardian for key properties.
-
-### 👑 The Swift Executioner (King of Spades)
-
-*A whirlwind of deadly strikes, the Swift Executioner is a master of offensive combat, capable of cutting down multiple foes with unmatched speed and precision. They are a veteran agent of the crown, dispatched to deal with threats swiftly and silently.*
-
-[//]: # (Visual prompt: A sleek, agile warrior clad in dark leather armor, wielding two elegant blades that move with blinding speed. They are a shadow, a whisper of death on the battlefield. Dynamic, stylized fantasy art style.)
-
-**Special Ability: Dual Strike**
-
-*   **Cost:** The **Cost of the Living** counter reduced by 1.
-*   **Effect:**
-    *   The Swift Executioner can attack twice during the turn they are played.
-    *   These attacks can be directed at the same target or different targets (properties or Golems).
-    *   After using this ability, the Swift Executioner is placed on any property, acting as a defender.
-    *   *This Royal Guard is a one-being offensive force, able to quickly dismantle enemy defenses or eliminate multiple threats in a single turn.*
-
-> [!TIP]
-> Use the Swift Executioner to swiftly eliminate high-priority targets or to break through heavily defended positions. Their ability to attack twice makes them a formidable offensive weapon.
-
-### 👑 The Grand Artificer (King of Diamonds)
-
-*A master of strategy and support, the Grand Artificer can enhance the very capabilities of the Royal Guard, bolstering their power and resilience. They are a seasoned commander, able to inspire their comrades to feats of extraordinary valor.*
-
-[//]: # (Visual prompt: A regal figure in ornate robes, adorned with symbols of authority and wielding a staff that channels their strategic brilliance. They are the mastermind, the architect of victory. Abstract, fantasy art style.)
-
-**Special Ability: Royal Enhancement**
-
-*   **Cost:** The **Cost of the Living** counter reduced by 1.
-*   **Effect:**
-    *   The Grand Artificer can enhance the capabilities of any *other* friendly Royal Guard.
-    *   When activated, you may choose *one* of the following enhancements to apply *once* to the targeted Royal Guard:
-        *   **Reinforce Armor:** Add +2 to the target's Health.
-        *   **Sharpen Blades:** Add +2 to the target's Strength.
-        *   **Fortify Will:** The target gains a +3 bonus to resist the effects of spells.
-    *   After using this ability, the Grand Artificer is placed on any property, acting as a defender.
-    *   *The Grand Artificer is a powerful support unit, capable of significantly boosting the effectiveness of other Royal Guards.*
-
-> [!TIP]
-> The Grand Artificer works best in synergy with other Royal Guards. Use their Royal Enhancement ability to bolster their strengths and create an unstoppable force.
-
-### 👑 The Imposing Colossus (King of Clubs)
-
-*A towering warrior of unmatched might, the Imposing Colossus is a symbol of unwavering royal authority, demanding respect and forcing all who oppose them to face their wrath. They are a veteran champion, a giant among their peers, their presence alone enough to shift the tide of battle.*
-
-[//]: # (Visual prompt: A massive, heavily armored warrior clad in imposing plate armor, their sheer size dwarfing all others on the battlefield. They are a force of nature, an unstoppable juggernaut. Imposing, impressionistic fantasy art style.)
-
-**Special Ability: Center of Attention**
-
-*   **Cost:** The **Cost of the Living** counter reduced by 2.
-*   **Effect:**
-    *   For one turn when played, all enemy attacks must be directed at them.
-    *   Enemy Golems and Royal Guards cannot attack other targets unless the Imposing Colossus is defeated during that turn.
-    *   After using this ability, the Imposing Colossus is placed on any property, acting as a defender.
-    *   *This Royal Guard is a powerful disruptor, forcing your opponents to deal with it before they can target your other assets.*
-    *   *This Royal Guard is immune to the Shielding Sovereigns special ability.*
-
-> [!TIP]
-> Deploy the Imposing Colossus to draw enemy fire and protect your more vulnerable units. Their Center of Attention ability can be used to control the flow of battle and dictate your opponent's actions.
 
 ---
 ## The Art of War: Golem and Royal Guard Combat
 
-*"When the markets fail, and diplomacy crumbles, it is the clash of stone and steel that dictates the fate of empires." - *Chapter VII, "The Economics of Warfare," from Merlin's Merchant Manual*
+> *"When the markets fail, and diplomacy crumbles, it is the clash of stone and steel that dictates the fate of empires." -* Chapter VII, "The Economics of Warfare," from *Merlin's Merchant Manual*
 
 In the realm of Merlin Economics, battles are not merely about brute force, but about strategic deployment, calculated risk, and the cunning use of resources. Combat is resolved through a combination of dice rolls, special abilities, and tactical maneuvering. This section details the intricacies of combat involving **Golems** and the **Royal Guard**.
 
@@ -694,7 +514,6 @@ In the realm of Merlin Economics, battles are not merely about brute force, but 
 *"A wise merchant-mage knows that true wealth comes not just from trade, but from controlling the very land itself." - *Ancient Proverb of the Merchant-Mage Council*
 
 Properties are the cornerstone of a player's economic engine. Attacking an opponent's property is a strategic move to disrupt their resource generation and cripple their economic growth.
-
 #### Initiating an Attack
 
 1. **Declaration:** On your turn, you may declare an attack with a **Golem** or **Royal Guard** you control.
@@ -800,40 +619,189 @@ When Royal Guards clash, it's a duel of legendary proportions, a battle that wil
 
 ---
 
-## The Winds of Fortune (Aces)
+## The Sevens of Upheaval (7s): Riding the Waves of Inflation
 
-*They are the harbingers of luck, the bringers of unexpected boons. When an Ace appears, it's a chance for a windfall, a sudden infusion of magical potential.*
+*The number seven is a fickle force in the realm of magical economics, representing the unpredictable nature of inflation and market instability. When the dice land upon this number, the very foundations of commerce tremble, and even the most seasoned merchant-mages must brace themselves for a shift in the economic winds.*
 
-[//]: # (Visual prompt: A swirling vortex of magical energy, with a playing card at its center. The card is an Ace, and it radiates with power and possibility. Abstract, fantasy art style.)
+**When a 7 is rolled on the dice during any player's turn, the following occurs:**
 
-*   **Appearance:** The Ace cards represent moments of extraordinary luck and opportunity.
-*   **Immediate Play:** When an Ace is drawn, it must be played immediately.
-*   **Permit Boon:** The player who drew the Ace draws cards from the deck until a **permit** is revealed. This permit is granted to the player for free, representing a sudden opportunity or a stroke of good fortune.
-*   **Permit Activation:** The player immediately receives the benefits of the drawn permit as if they had rolled its corresponding number. They also get to keep the permit, adding it to their holdings.
-*   **Reshuffle:** The Ace is then reshuffled back into the deck.
-*   **No Permit Drawn:** If the deck is depleted and no permit is drawn, the deck is reshuffled. The player continues to draw until a permit is revealed.
+1. **The Cost of Living Rises:** The **Cost of the Living** counter increases by the **Volatility** value (default is 1). This signifies a surge in inflation, impacting the price of goods and services throughout the realm. The **Cost of the Living** can be reduced on unanimous vote during tax season.
+
+2. **Market Instability:** The sudden shift in the economic landscape creates instability in the market:
+    *   All gold invested in **properties** is lost and returned to the **Central Bank**. This represents the risks inherent in speculative investments during times of uncertainty.
+    *   All commodity holders must pay 1 gold to the **Central Bank** to keep each unit of their commodities. This reflects the increased costs of storage, transportation, and security during inflationary periods.
+
+3. **The Sevens are Unleashed:** If any **7** cards are present in the deck, they are immediately played. This can further disrupt the market and add to the chaos of the moment.
+
+> [!WARNING]
+> A roll of 7 can be a devastating blow to even the most prosperous merchant. Fortunes can be wiped out in an instant, and careful planning can be undone by the whims of the market. Be prepared for this eventuality, and consider hedging your risks during times of high volatility. It may be wise to keep some gold in reserve, stored safely in your **Chauffeur**, to weather the storm.
+---
+
+## The Winds of Fortune (Aces): Embracing the Boon of Serendipity
+
+*Aces are wild cards, representing moments of extraordinary luck and unexpected opportunity. When an Ace appears, it's a chance for a windfall, a sudden surge of magical potential that can propel a merchant-mage to new heights of prosperity.*
+
+**When an Ace is drawn from any deck, it must be played immediately:**
+
+1. **A Stroke of Luck:** The player who drew the Ace draws cards from the main deck until a **permit** is revealed. This permit is granted to the player *free of charge*, a boon bestowed by ভাগ্য itself.
+2. **Immediate Activation:** The player immediately receives the benefits of the drawn permit as if they had rolled its corresponding number. They also get to keep the permit, adding it to their holdings and expanding their economic engine.
+3. **Reshuffle the Deck:** The Ace is then reshuffled back into the deck, ready to bring another burst of fortune to a lucky merchant-mage.
+4. **No Permit Drawn:** If the deck is depleted and no permit is drawn, the deck is reshuffled. The player continues to draw until a permit is revealed.
 
 > [!TIP]
-> Aces can provide a significant advantage, granting free permits that can boost your economic engine. Be prepared to capitalize on these moments of fortune!
+> The appearance of an Ace can dramatically shift the balance of power in the marketplace. Be prepared to capitalize on these moments of fortune, for they can provide a significant advantage in your pursuit of economic dominance. A free permit can be the key to unlocking new strategies and securing your place as a master merchant-mage.
+
+---
+## The Dice of Destiny
+
+*   **Resource Generation:** When a player rolls the dice on their turn, all players check their **properties** and **land** cards. If the number rolled matches the number on any of these cards, the corresponding player receives one of the indicated resources (gold, Souls, Elixir Oil, or Essence Grain).
+*   **Seasonal Shifts:** If both dice show the same number (doubles), the **Season Wheel** advances by one portion. This represents the changing seasons and their impact on the magical economy.
+    *   The game begins in the first phase of Summer.
+    *   Players receive no **Essence Grain** nor **Souls** during Winter.
+    *   Players receive double **Essence Grain** and **Souls** during Spring, and fall.
+*   **Triggering Events:** Certain dice rolls trigger specific events:
+    *   **Rolling a 7:** Increases the **Cost of Research** by one, all invested gold is lost and given to the **Central Bank**, all commodity holders must pay 1 gold to the **Central Bank** to keep their commodities, and all **7** cards are played.
+    *   **Rolling an 11 or 12:** Activates specific **Golem** actions noted on their card. **Golems** heal property they are **defending** one hit point.
+
+### The Two Season Wheels: Tracking the Flow of Time and Magic
+
+The Season Wheel is a crucial component for tracking the passage of time and the ebb and flow of magical energies. There are two distinct Season Wheels used in the game, each representing a different state of the magical climate:
+
+#### Standard Season Wheel
+*   Used when the **Climate Change** counter is below the threshold indicated in its rules.
+*   Represents a balanced magical climate with predictable seasonal effects.
+*   Divides the year into four seasons: Spring, Summer, Autumn, and Winter.
+
+#### Erratic Season Wheel
+*   Used when the **Climate Change** counter reaches a specific threshold.
+*   Represents an unstable magical climate with unpredictable and often extreme seasonal effects.
+*   Features more volatile and potentially dangerous seasonal shifts. The exact effects are detailed on the Erratic Season Wheel itself, but may include:
+    *   **Extended Seasons:** Some seasons may last longer than usual.
+    *   **Shortened Seasons:** Some seasons may be drastically shortened.
+    *   **Intensified Effects:** Seasonal effects may be amplified, both positive and negative.
+    *   **Unpredictable Events:** The wheel may trigger unusual magical phenomena.
+
+**Switching Between Wheels:**
+*   The game begins with the Standard Season Wheel.
+*   As players generate **Oil**, the **Climate Change** counter increases.
+*   When the **Climate Change** counter reaches the predetermined threshold, the Standard Season Wheel is replaced with the Erratic Season Wheel.
+*   The Erratic Season Wheel remains in play for the rest of the game, or until specific game events dictate a return to the Standard Wheel (if such rules are included in the game).
+
+> [!NOTE]
+> For more details on **Golems** and their actions, refer to "The Animated Guardians: Golems of War and Warding" section.
+
+> [!NOTE]
+> For more details on **Climate Change** and its effects, refer to the "Indicators" section.
 
 ---
 
-## The Sevens of Upheaval (7s)
+## The Glitter of Gold
+*   **Starting Wealth:** Each player begins the game with 10 gold pieces.
+*   **Earning Gold:** Gold is primarily earned through **property** ownership. When the dice roll matches a property's number, the owner receives gold based on the property's **Payout Rate**.
+*   **Uses of Gold:**
+    *   **Property and Permit Acquisition:** Gold is used to purchase **properties** and **permits**.
+    *   **Research Funding:** Gold is required to fund **Spell** and **Potion** research.
+    *   **Tax Payments:** Gold is used to pay taxes to the **R.O.W.**.
+    *   **Investment:** Gold can be invested in **properties**, with the potential for high returns or significant losses.
+    *   **Market Transactions:** Gold is used to buy and sell commodities in the **Grand Market**.
+    *   **Golem and Royal Guard Activation:** Gold is a crucial component in animating **Golems** and motivating the **Royal Guard**.
+*   **Pocket Change:** Any gold that is not invested in a property or stored in a **Chauffeur** is considered "pocket change" and can be vulnerable to loss or theft during certain events, like the roll of a 7.
 
-*They are the forces of inflation, the agents of economic instability. When a Seven is rolled, the very foundations of the market tremble, and the cost of living rises for all.*
+---
 
-[//]: # (Visual prompt: A chaotic scene of a marketplace in disarray. Goods are scattered, people are panicking, and the very air crackles with an unstable energy. Dramatic, impressionistic fantasy art style.)
-
-*   **Trigger:** When a 7 is rolled on the dice during any player's turn.
-*   **Immediate Effect:** All **7** cards in the deck are immediately played.
-*   **Cost of Living Increase:** The **Cost of the Living** counter increases by the **Volatility** value (default is 1). This represents inflation, impacting all aspects of the game.
-*   **Market Instability:**
-    *   All invested gold on properties is lost and given to the **Central Bank**. This represents the risks of market speculation during times of uncertainty.
-    *   All commodity holders must pay 1 gold to the **Central Bank** to keep each unit of their commodities. This represents the increased cost of storage and maintenance during inflationary periods.
-*   **Reshuffle:** After the effects are resolved, all **7** cards are reshuffled back into the deck.
-
-> [!WARNING]
-> A roll of 7 can be devastating, wiping out investments and increasing costs for all players. Be prepared for this eventuality, and consider hedging your risks during times of high volatility.
+## The Visions of Tomorrow: Future Reading Cards
+*   **Types of Future Reading Cards:**
+    *   **Tea Leaves:** These cards offer minor insights into potential future events. They are drawn more frequently but have a lower probability of occurring.
+    *   **Crystal Balls:** These cards provide more significant predictions with a higher chance of coming to pass.
+*   **Drawing a Card:** At the start of each player's turn, one Future Reading card is drawn and revealed.
+*   **Event Triggers:** Future Reading cards typically indicate events that will happen under specific conditions, such as a particular number being rolled, a certain number of turns passing, or a specific season occurring. These are described on the card.
+*   **Delayed Effects:** Future Reading cards are placed face up on the table after being drawn. They take time to "mature" before their effects are triggered.
+*   **Contradictions:** If multiple Future Reading cards predict contradictory events, the card played first takes precedence.
+*   **Market Influence:** Some Future Reading cards can influence the market, such as by redistributing **R.O.W.** tax revenue or creating temporary shifts in commodity prices.
+*   **Waivers:** Some predictions can be inaccurate, and be waived by adverse rolls foretold on the card.
 
 > [!NOTE]
-> For more information on the **Cost of the Living** counter and **Volatility**, refer to the "Indicators" section.
+> If there is not enough gold to be distributed in the manor the card describes to every player, disregard the card.
+
+> [!NOTE]
+> For more information on **R.O.W.**, check the Tax section.
+
+---
+
+## The Arcane Arts of Finance: Mastering Magical Markets
+
+*Beyond the simple bartering of commodities lies a world of complex financial instruments, where fortunes can be multiplied through shrewd investments, calculated risks, and the manipulation of market forces. As a master merchant-mage, you must learn to navigate this intricate landscape, leveraging your wealth and magical prowess to dominate the economic realm.*
+
+### Property Investing: A Gamble with the Fates
+
+*To invest in a property is to tie your fortunes to the very fabric of the magical realm, hoping that the threads of fate will weave a tapestry of prosperity.*
+
+Investing in properties equates to placing gold directly onto a **property** card in your **field**. This is a gamble, a bet that the property's number will be rolled before a 7.
+
+**Mechanics of Property Investment:**
+
+*   Place gold from your personal reserves onto any **unoccupied** property you own (without a Golem or Royal Guard on it).
+*   If the property's number is rolled *before* a 7, you **double** your investment. The original investment and the profit are returned to your personal reserves, a bountiful harvest from a well-placed bet.
+*   If a 7 is rolled, your investment is **lost**, the gold devoured by the fickle whims of the market. The lost investment is given to the **Central Bank**.
+*   You may only invest in a property **once** per turn.
+*   Properties with permits (Land, Spell Shops, etc.) **cannot** be invested in. The magical energies of the permit interfere with the delicate threads of fate.
+
+> [!NOTE]
+> Property investing is a high-risk, high-reward endeavor. It requires a keen understanding of probability, a healthy dose of luck, and the courage to risk your hard-earned gold.
+
+### The Grand Market: A Crucible of Commodity Trading
+
+*The Grand Market is the beating heart of the magical economy, a place where the raw energies of the realm are transformed into wealth. Here, amidst the cacophony of merchants' cries and the shimmer of magical energies, fortunes are made and lost in the blink of an eye.*
+
+The Grand Market, or simply "the market," is a trading platform for **commodity** speculation. This is where you can buy and sell **Souls**, **Elixir Oil**, and **Essence Grain**, the fundamental elements of magical industry.
+
+**Mechanics of the Grand Market:**
+
+*   **Bid/Ask Tables:** Each commodity has a designated **bid/ask table** in the Central Market area.
+*   **Bids:** Players can create **bids** by placing a stack of gold (representing the amount they are willing to pay) on a slip of paper with their name (or identifier) and placing it under the "bid" section of the desired commodity's table. This signifies their intent to buy that commodity at the specified price. Once a bid is in place it cannot be taken out of the market for one turn. To indicate a market exit, a player must shift the bid left into the **escrow** section, in which it can be collect on the players next turn.
+    *   Players can shift a bid up same turn, or create more bids with more slips; however, to shift a bid down the difference must also pass escrow.
+*   **Asks:** Players can create **asks** by placing a commodity (representing the amount they are willing to sell) on a slip of paper with their name (or identifier) and desired price, and placing it under the "ask" section of that commodity's table. This signifies their intent to sell that commodity at the specified price. An ask can be taken out of the market on the players turn, with no indications necessary.
+*   **Executing Trades:** On their turn, players can execute trades by matching a **bid** with an **ask**. The buyer pays the agreed-upon price to the seller, and the commodity changes hands. The trade is recorded, and the market price for that commodity may be affected.
+*   **Spot Price:** The **spot price** is considered to be the price halfway between the **bid** and **ask**. If there are no **bids**, the **spot price** is considered zero.
+*   **Market Manipulation:** Be warned, there are no regulations against **spoofing**, **short ladders**, or any other cunning (or devious) tactics to manipulate prices. The market is a wild and untamed beast, where the shrewd and the ruthless thrive.
+*   **Market Stimulus:** If the market has no **bids** for an item and it has been that way for two months, use **R.O.W** money to create three **bids** at the current **Cost of Living**.
+
+> [!IMPORTANT]
+> All bids and asks must be **covered**, meaning the buyer must have the gold to back their bid, and the seller must have the commodity to fulfill their ask. There are no trade busts or adjustments in the Grand Market. Once a trade is executed, it is final.
+
+### Commodity Derivatives: Weaving the Future of Fortunes
+
+*For the truly ambitious merchant-mage, the market offers even more sophisticated tools for manipulating wealth: derivatives, contracts that derive their value from the underlying commodities.*
+
+Commodities can be traded, however because it takes time for commodities to grow, contracts can be traded between players to mitigate fluctuating prices. The commodity seller is the **short**, the long is the buyer of commodities. Every contract is calculated using one bushel which is 3 of the same commodity.
+
+**Futures Contracts:**
+
+*   To create a **futures contract** two players need to agree upon:
+    *   **Commodity Type:** (Souls, Elixir Oil, or Essence Grain)
+    *   **Forward Price:** The price at which the commodity will be exchanged at a future date.
+    *   **Expiry Date:** The date on which the contract will be fulfilled.
+*   On a sticky note, the **short** must first write their name or any string identifier (e.g farm name, company name) on top. Resource being sold. The forward price. Expiry date in number of years. (e.g Start of summer, Year 3)
+*   **Forward Price** can be calculated using a formula, or the shorts gut. But for a rule of thumb it should be the three times whatever the short believes will be the future price of commodity.
+*   The sticky note is then placed on the field for players to fulfill by paying the forward price to the short, becoming the **long** on the contract. The long is allowed to sell the contract on their turn for however much they see fit, or hold it until expiry.
+*   **Contract Fulfillment:** The contract cannot be assigned until the expiry date. The **short** has an obligation to fulfill all contracts, on their first turn after expiry.
+    *   Shorts can buy commodities in the market to fulfill the contract, remove asks on the commodity, or settle the contract by assigning a long contract they hold with the same expiry regardless of forward price. If there are no commodities to buy, the contract can be settled by the last sold price of the commodity.
+*   **Failure to Deliver:** If the **short** fails to deliver, the second turn after expiry, the player is considered **bankrupt**.
+
+> [!NOTE]
+> For more information on what to do when a player is considered bankrupt refer to the Bankruptcy section.
+
+### Insurance: Hedging Against the Whims of Fate
+
+*Even the most carefully laid plans can be undone by a sudden shift in the winds of fortune. Insurance offers a way to mitigate risk, a safety net against the unpredictable nature of the magical marketplace.*
+
+Players that have a **chauffeurs** that want to be able to hedge against statistical chances in the game are able to create derivatives contracts with other players for a fixed price. A more nuanced version of this is called **insurance**, that relies on seasonal premium changes and leverage.
+
+**Mechanics of Insurance:**
+
+*   **Selling Insurance:** Players can sell **insurance** on statistical chances, essentially creating bets on specific outcomes in the game.
+    *   **Simple Example:** "If the next roll is a 2, 3, or 5. Pays 3:1"
+    *   **Complex Example:** "If a spell is played to block production of souls on your property and the number on the land is rolled. Pays 14:3"
+*   **Insurance Periods:** Insurance periods can be from one turn to multiple years.
+*   **Premium Costs:** The cost of the insurance (the **premium**) is negotiated between the buyer and the seller. These can only be changed on the changing of the season.
+
