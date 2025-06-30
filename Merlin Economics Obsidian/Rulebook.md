@@ -1,5 +1,5 @@
 # Merlin Economics
-<sub>Version 0.1.26b</sub>
+<sub>Version 0.1.27b</sub>
 
 |                  |                |
 | :--------------- | :------------- |
@@ -9,7 +9,7 @@
 | Published by:    | SidewaysTurtle |
 
 <sub>
-Copyright © SidewaysTurtle, 2024  
+Copyright © SidewaysTurtle, 2025  
 All rights reserved
 </sub>
 
@@ -387,67 +387,6 @@ During your action phase, each active Golem may perform **ONE** of the following
     *   **Restriction:** Golems cannot move through properties occupied by enemy Golems. They must either attack the enemy Golem or choose a different path.
     *   **Adjacency:** Properties are considered adjacent if their cards are physically touching, either horizontally, vertically, or diagonally.
     *   **Exception:** Golems cannot be placed or moved onto a Chauffeur. They may move past it to an adjacent property, if available.
-
-### Golem Stacking
-
-*   **Rule:** Multiple Golems *can* occupy the same property.
-*   **Maximum Stack:** Up to **two** Golems can stack on a single property.
-*   **Benefits:**
-    *   **Combined Defense:** When attacking a property with multiple Golems, the attacking Golem must overcome the combined **Hit Points** of all defending Golems.
-    *   **Ability Synergy:** Certain Golem abilities may interact or be enhanced when stacked (see Suit Synergy and Combination Attacks below).
-*   **Restrictions:**
-    *   **Vulnerability:** While stacking provides a defensive advantage, it also makes the stacked Golems more vulnerable to area-of-effect attacks (like those of the Explosive Artillerist).
-
-### Suit Synergy
-
-*   **Rule:** When two Golems of the same suit are either stacked on the same property or are on adjacent properties, they gain a synergy bonus.
-*   **♣️ Clubs (Overly Eager Sentinels):**
-    *   **Bonus:** +1 Attack Power to both Golems.
-    *   *Represents their shared aggressive nature, bolstering their offensive might.*
-*   **♠️ Spades (Harmonious Sentinels):**
-    *   **Bonus:** When performing a Coordinated Strike, add +1 to the total damage.
-    *   *Reflects their enhanced coordination and ability to work together seamlessly.*
-*   **♥️ Hearts (Stalwart Sentinels):**
-    *   **Bonus:** +1 Hit Point to both Golems.
-    *   *Symbolizes their shared resilience and ability to bolster each other's defenses.*
-*   **♦️ Diamonds (Adaptive Sentinels):**
-    *   **Bonus:** When using Tactical Flexibility, add +1 to *either* Attack Power or Hit Points (player's choice).
-    *   *Highlights their adaptability and ability to enhance their chosen specialization.*
-
-### Combination Attacks
-
-*   **Rule:** Certain Golem pairings can perform unique Combination Attacks when stacked or on adjacent properties. These attacks are in addition to their individual abilities.
-*   **Overly Eager Sentinel (♣️) + Explosive Artillerist (♦️):**
-    *   **Name:** "Impetuous Bombardment"
-    *   **Cost:** 1 Soul, 1 Essence Grain
-    *   **Effect:** The Overly Eager Sentinel, in its haste, throws the Explosive Artillerist's bomb immediately upon the Artillerist's activation. The bomb deals +1 damage in addition to its normal effects.
-    *   *Illustrates the Overly Eager Sentinel's impulsiveness combined with the Explosive Artillerist's destructive power.*
-*   **Harmonious Sentinel (♠️) + Shielding Sovereign (♣️):**
-    *   **Name:** "Coordinated Defense"
-    *   **Cost:** 1 Soul, 1 Elixir Oil
-    *   **Effect:** The Shielding Sovereign's Aegis of the Realm ability now protects both herself and the Harmonious Sentinel, and the Harmonious Sentinel may still perform a coordinated attack with another Golem.
-    *   *Demonstrates their ability to work together to create an impenetrable defense while maintaining offensive capabilities.*
-*   **Stalwart Sentinel (♥️) + Inspirational Liege (♥️):**
-    *   **Name:** "Inspiring Bulwark"
-    *   **Cost:** 1 Soul, 1 Essence Grain, 1 Elixir Oil
-    *   **Effect:** The Inspirational Liege's Royal Boon now grants an additional +1 Hit Point to all friendly Golems, and the Stalwart Sentinel heals the property it's defending by +1.
-    *   *Highlights their combined ability to inspire and fortify, creating a powerful defensive synergy.*
-
-### Terrain Effects (Based on Card Type)
-
-*   **Rule:** Certain card types provide bonuses or penalties to Golems occupying them.
-*   **Spell Shop:**
-    *   **Effect:** +1 Attack Power to any attacking Golem on this property.
-    *   *Reflects the volatile magic energies of the Spell Shop, enhancing offensive capabilities.*
-*   **Brewery:**
-    *   **Effect:** +1 Hit Point to any defending Golem on this property.
-    *   *Symbolizes the Brewery's sturdy construction and the invigorating nature of its brews, providing a defensive advantage.*
-*   **Chauffeur:**
-    *   **Effect:** No bonuses or penalties. Golems cannot be placed or moved onto a Chauffeur.
-    *   *Reflects the Chauffeur's unique status as a magically protected financial institution, separate from the battlefield.*
-*   **Land Cards:**
-    *   **Effect:** All Golems have -1 to their Attack Power.
-    *   *Reflects the unrefined nature of these areas, making it more difficult to launch effective attacks.*
 
 ### 🗿 Stone Sentinels (Jacks)
 
